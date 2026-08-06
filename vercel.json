@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/((?!mock-data|assets|ngx-qima|.*\\..*).*)", "destination": "/index.html" }]
+}
