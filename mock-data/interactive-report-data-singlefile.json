@@ -57,7 +57,7 @@
       {
         "color": "#E5353D",
         "label": "Checklists & tests",
-        "result": "Fail"
+        "result": "Failed"
       },
       {
         "color": "#00A876",
@@ -1591,7 +1591,7 @@
         "maxCritical": "0",
         "maxMajor": "7",
         "maxMinor": "10",
-        "testResults": "Fail",
+        "testResults": "Failed",
         "workmanShipResult": "Within AQL",
         "defects": [
           {
@@ -1673,7 +1673,7 @@
             "tests": [
               {
                 "name": "Available Quantity Check",
-                "comment": "Factory offered quantity 3470 pcs against booked quantity 4000 pcs. Shortage qty - 530 pcs. Percentage - 86.75%. Total cartons - 36. Selected cartons - 15.",
+                "comment": "Factory offered quantity 3470 pcs against booked quantity 4000 pcs.\nShortage qty - 530 pcs\nPercentage - 86.75%\nTotal cartons - 36\nSelected cartons - 15",
                 "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [
@@ -1694,210 +1694,26 @@
                   }
                 ],
                 "attachments": []
-              }
-            ]
-          },
-          {
-            "checklistName": "Carton Packing and Specification General",
-            "result": "Fail",
-            "tests": [
+              },
               {
-                "name": "Outer Packing: Assortment, Dims & Weight Result",
-                "comment": "Factory did not meet the client required carton dimensions found during the inspection 70 cm x 33 cm x 47 cm (L x H x W).",
-                "testResult": "Fail",
+                "name": "Available Quantity Details",
+                "comment": "",
+                "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [],
                 "attachments": []
               },
               {
-                "name": "Inner Packing",
-                "comment": "Incorrect color sequence was found. Incorrect folding direction was observed; garments were inserted into the inner box in the wrong orientation.",
-                "testResult": "Fail",
+                "name": "Quantity Finished & Packed (%)",
+                "comment": "",
+                "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [],
                 "attachments": []
               },
               {
-                "name": "Unit Packing",
-                "comment": "Incorrect color sequence was found. Incorrect folding direction was observed; garments were inserted into the inner box in the wrong orientation.",
-                "testResult": "Fail",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Item Packaging",
-                "comment": "Incorrect color sequence was found. Incorrect folding direction was observed; garments were inserted into the inner box in the wrong orientation.",
-                "testResult": "Fail",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Product Description",
-                "comment": "The product name on the client PO sheet does not match the product name on the inner pack.",
-                "testResult": "Fail",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              }
-            ]
-          },
-          {
-            "checklistName": "IPC - Product Specifications - SL",
-            "result": "Pass",
-            "tests": [
-              {
-                "name": "Random carton selection",
-                "comment": "There are no cartons.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/00b22f91-fbb6-4351-9cbc-22d847ec8eb1.jpg",
-                    "url": "assets/singlefile-photos/036be7b9-e91c-4c11-95cc-378541376040.jpg"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "name": "Cartons before selection",
-                "comment": "There are no cartons.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/0377f9d1-44f9-4c26-b84a-834a220944e1.jpg",
-                    "url": "assets/singlefile-photos/038595b3-3c40-4c69-8d2d-28d363d7405d.jpg"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "name": "Cartons after selection",
-                "comment": "There are no cartons.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/03eb8c97-227a-40eb-ab00-86a835d01bb0.jpg",
-                    "url": "assets/singlefile-photos/068cc139-611f-4bbf-ac70-d5353b4c4bef.jpg"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "name": "Selected cartons",
-                "comment": "There are no cartons.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/078987d0-4a9a-4089-8e4f-95f269cdb1c9.jpg",
-                    "url": "assets/singlefile-photos/09fc9f8b-e8fc-4640-9261-62fcbb14679c.jpg"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "name": "Outer Packing & Shipping Marks: Front & Side",
-                "comment": "Not applicable.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Outer Packing: Assortment, Dimensions & Weight",
-                "comment": "Not applicable.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Inner Packing & Unit Packing",
-                "comment": "Not Applicable.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Match packing info",
-                "comment": "Not Applicable.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Carton drop test",
-                "comment": "Not Applicable.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Shake test info",
-                "comment": "Not Applicable.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Product Style & Construction",
-                "comment": "The supplier did not provide PP counter samples from the client, swatch, trim card, or technical file during the inspection time.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/0b638500-898b-450c-8ed7-78b67f9a55cd.jpg",
-                    "url": "assets/singlefile-photos/0c203fd2-8e57-4c95-a0f3-d58e144aea42.jpg"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "name": "Product Color",
-                "comment": "The supplier did not provide PP counter samples from the client, swatch, trim card, or technical file during the inspection time.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/0c356500-c9d9-4626-aa8d-a2318172fbc8.jpg",
-                    "url": "assets/singlefile-photos/0c4e2bf4-612f-4659-8522-823a11aa4771.jpg"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "name": "Product Logo",
-                "comment": "No logo was found on the bulk products.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Product Labels",
-                "comment": "No label was found on the bulk products.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Approval Sample Comparison",
-                "comment": "The supplier did not provide PP counter samples from the client, swatch, trim card, or technical file during the inspection time.",
+                "name": "Quantity Finished & Unpacked (%)",
+                "comment": "",
                 "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [],
@@ -1906,19 +1722,278 @@
             ]
           },
           {
-            "checklistName": "IPC - Test - General Garments",
+            "checklistName": "SKIMS-Product Specifications - SL",
             "result": "Pass",
             "tests": [
               {
-                "name": "Zipper function check",
-                "comment": "No zipper was found on the bulk products.",
+                "name": "Approval Sample",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Test Report",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Sample Collection",
+                "comment": "",
                 "testResult": "N/A",
                 "isExcluded": false,
                 "photos": [],
                 "attachments": []
               },
               {
+                "name": "Random Carton Selection",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Cartons before Selection",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Cartons after Selection",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Selected Cartons",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Crease Mark",
+                "comment": "",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Product Style/Construction",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Product Colors",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Product Artwork",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Product Description",
+                "comment": "The product name on the client PO sheet does not match the product name on the inner pack\n( Factory provided client approved mail, there is subject only mentioned January delivery concern, accordingly mentioned NOT OK )",
+                "testResult": "Fail",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "SKIMS Brand & Composition Label",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Product Logo",
+                "comment": "No logo was found on the bulk products.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "UPC Barcode Sticker Label",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "RFID Tag/Label",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "PO Tracker",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Manufacture Date on Anti-counterfeit label",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Label Languages",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Carton Packing and Specification General",
+                "comment": "Carton mark and numbers not completed during the inspection",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Carton Packing and Labeling",
+                "comment": "Carton mark and numbers not completed during the inspection",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Carton Labeling & Identification Requirements",
+                "comment": "Carton mark and numbers not completed during the inspection",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Outer Packing: Assortment, Dimensions & Weight",
+                "comment": "Not applicable.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Outer Packing: Assortment, Dims & Weight Result",
+                "comment": "Factory did not meet the client required carton dimensions found during the inspection 70 cm x 33 cm x 47 cm ( L x H x W )\n( The factory provided a mail regarding the above dimension issue, stating that new dimensions are being followed. However, there is no clarification of client approval for the revised dimensions )",
+                "testResult": "Fail",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Inner Packing",
+                "comment": "Incorrect color sequence was found. Incorrect folding direction was observed; garments were inserted into the inner box in the wrong orientation",
+                "testResult": "Fail",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Unit Packing",
+                "comment": "Incorrect color sequence was found. Incorrect folding direction was observed; garments were inserted into the inner box in the wrong orientation",
+                "testResult": "Fail",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Item Packaging",
+                "comment": "Incorrect color sequence was found. Incorrect folding direction was observed; garments were inserted into the inner box in the wrong orientation",
+                "testResult": "Fail",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Availability of Vent Hole",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Availability of Mold Prevention",
+                "comment": "",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "SKIMS - Specific AQL Requirement",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "5% AQL Requirement of Shapewear Product",
+                "comment": "",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "SKIMS-Default Tests",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Logo Check Test",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "Q2614889886_1 - Test - Boxers and brief",
+            "result": "Pass",
+            "tests": [
+              {
                 "name": "Needle damage check",
+                "comment": "",
                 "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [
@@ -1928,51 +2003,6 @@
                     "url": "assets/singlefile-photos/0d616fac-e32e-4b3a-b3ac-541499be00d9.jpg"
                   }
                 ],
-                "attachments": []
-              },
-              {
-                "name": "Button check",
-                "comment": "No button was found on the bulk products.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Weight check",
-                "comment": "It was a knit item.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Ironing, washing, treatment check",
-                "testResult": "Pass",
-                "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/0d9e5122-3b9e-4da1-bfb9-66908b70d921.jpg",
-                    "url": "assets/singlefile-photos/112c20f0-2ddd-4b77-a0ae-f751e426987f.jpg"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "name": "Pattern, stripes, grid check",
-                "comment": "Not applicable.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Pocket / holder check",
-                "comment": "Not applicable.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
                 "attachments": []
               },
               {
@@ -2011,8 +2041,8 @@
                 "attachments": []
               },
               {
-                "name": "Pull test",
-                "comment": "No button/ small parts were found on the bulk product.",
+                "name": "Information check",
+                "comment": "",
                 "testResult": "N/A",
                 "isExcluded": false,
                 "photos": [],
@@ -2024,19 +2054,6 @@
                 "testResult": "N/A",
                 "isExcluded": false,
                 "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Odor check",
-                "testResult": "Pass",
-                "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/15b657f7-eca6-447b-bed9-5bbc7b04a668.jpg",
-                    "url": "assets/singlefile-photos/16bbd6b1-c7a9-47ec-8ebf-649bb21f8266.jpg"
-                  }
-                ],
                 "attachments": []
               },
               {
@@ -2093,57 +2110,16 @@
                 "attachments": []
               },
               {
-                "name": "Binding check",
-                "comment": "Both the binding material and the binding method conform to the specifications and the approved sample.",
-                "testResult": "Pass",
-                "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/227075a4-7a4b-47f7-8f14-e10384273e87.jpg",
-                    "url": "assets/singlefile-photos/24f2c964-a4d3-4df5-a041-38ecbb3a9560.jpg"
-                  },
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/2513cacf-ce50-4b68-af44-84f26104a6fd.jpg",
-                    "url": "assets/singlefile-photos/25e67ae8-c8be-40d7-bb9f-7327ce9a4a02.jpg"
-                  }
-                ],
-                "attachments": []
-              },
-              {
                 "name": "Elastic waistband stretched length",
                 "comment": "Not applicable to this product.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Elastic recovery check",
-                "comment": "Not applicable to this product.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Color specification check",
-                "comment": "The product is in the correct shade / color inside of the allowable 4-5 color shading range.",
                 "testResult": "Pass",
                 "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/27d93f19-4faa-42fc-a642-022ae764ed05.jpg",
-                    "url": "assets/singlefile-photos/2861df5c-8804-472e-955f-7a451b76b3ae.jpg"
-                  }
-                ],
+                "photos": [],
                 "attachments": []
               },
               {
-                "name": "Stuffing check",
-                "comment": "Not applicable to this product.",
+                "name": "Assortment / parts check",
+                "comment": "",
                 "testResult": "N/A",
                 "isExcluded": false,
                 "photos": [],
@@ -2152,58 +2128,23 @@
               {
                 "name": "Adhesive test",
                 "comment": "No found logo or print on the bulk product.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Metal / needle detection check",
-                "comment": "The metal detector machine was out of service.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Function test",
-                "comment": "Not applicable to this product.",
-                "testResult": "N/A",
-                "isExcluded": false,
-                "photos": [],
-                "attachments": []
-              },
-              {
-                "name": "Color shading check ",
-                "comment": "The deviation is within the acceptable range as per the specifications; in the absence of specific requirements, grey scale 4 is used as the acceptable limit.",
                 "testResult": "Pass",
                 "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/2ba176c6-ec2e-466a-89f9-bcbd1b334627.jpg",
-                    "url": "assets/singlefile-photos/2c6c6c4d-8f9f-47b3-831a-01d1436da453.jpg"
-                  },
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/2d03a46e-08a6-4312-8cfe-37c635241d75.jpg",
-                    "url": "assets/singlefile-photos/2d593d3e-f7ba-4cec-96ff-bdfd776671e7.jpg"
-                  }
-                ],
+                "photos": [],
                 "attachments": []
               },
               {
-                "name": "Quantity and assortment check (per package)",
-                "comment": "Not applicable.",
-                "testResult": "N/A",
+                "name": "Color shading check",
+                "comment": "",
+                "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [],
                 "attachments": []
               },
               {
-                "name": "Barcode/QR code scanning test ",
-                "comment": "The factory did not attach the labels.",
-                "testResult": "N/A",
+                "name": "Barcode/QR code scanning test",
+                "comment": "",
+                "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [],
                 "attachments": []
@@ -2211,7 +2152,7 @@
               {
                 "name": "Approval sample comparison",
                 "comment": "The supplier did not provide PP counter samples from the client, swatches, trim cards, or the technical file at the time of inspection.",
-                "testResult": "N/A",
+                "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [],
                 "attachments": []
@@ -2247,6 +2188,28 @@
               {
                 "name": "Label check",
                 "comment": "The product has no label.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Metal / needle detection check",
+                "comment": "The metal detector machine was out of service.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "SKIMS - Factory Feedback",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Factory Feedback",
+                "comment": "",
                 "testResult": "N/A",
                 "isExcluded": false,
                 "photos": [],
@@ -2255,29 +2218,37 @@
             ]
           },
           {
-            "checklistName": "IPC - Factory Review",
+            "checklistName": "SKIMS - Factory Review",
             "result": "Pass",
             "tests": [
               {
-                "name": "Is the factory/workshop location same as booked?",
+                "name": "Factory Cooperation",
+                "comment": "",
+                "testResult": "Pass",
                 "isExcluded": false,
-                "photos": [
-                  {
-                    "caption": null,
-                    "thumbnailUrl": "assets/singlefile-photos/30fb98bb-538d-4057-8a00-334efa7c7b89.jpg",
-                    "url": "assets/singlefile-photos/32fb2ba1-b111-4884-b7d7-d3359170ece7.jpg"
-                  }
-                ],
+                "photos": [],
                 "attachments": []
               },
               {
-                "name": "Factory Cooperation, Organization and Cleanliness",
+                "name": "Factory Organization",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Factory/workshop cleanliness",
+                "comment": "",
+                "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [],
                 "attachments": []
               },
               {
                 "name": "Inspection Room Lighting Conditions",
+                "comment": "",
+                "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [
                   {
@@ -2289,21 +2260,30 @@
                 "attachments": []
               },
               {
-                "name": "Tools calibration",
+                "name": "Is the factory/workshop location same as booked?",
+                "comment": "LOGISTIC PARK (PVT ) LTD,390 AVISSAWELLA ROAD, WELLAMPITIYA, SRI LANKA.",
+                "testResult": "Pass",
                 "isExcluded": false,
-                "photos": [],
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "assets/singlefile-photos/30fb98bb-538d-4057-8a00-334efa7c7b89.jpg",
+                    "url": "assets/singlefile-photos/32fb2ba1-b111-4884-b7d7-d3359170ece7.jpg"
+                  }
+                ],
                 "attachments": []
               },
               {
-                "name": "Mold Prevention Check",
-                "comment": "Not applicable.",
-                "testResult": "N/A",
+                "name": "Did factory allow for random carton selection?",
+                "comment": "",
+                "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [],
                 "attachments": []
               },
               {
                 "name": "Are the QIMA documents signed?",
+                "comment": "",
                 "testResult": "Pass",
                 "isExcluded": false,
                 "photos": [
