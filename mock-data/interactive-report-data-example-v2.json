@@ -2,37 +2,45 @@
   "message": "OK",
   "content": {
     "reportId": "63CBF838C8CB4A6E9201575AECE1EB86",
-    "reportNumber": "LS STURDY TEE",
+    "reportNumber": "3 INCHBOXER BRIEF 3 PACK",
     "orderId": "4CE45F5E5F42484785D2103A761C4DC4",
-    "orderNumber": "Q2524297730",
+    "orderNumber": "Q2614889886",
     "downloadUrlOfPhotos": "https://app.qimaone.com/api/inspection/documents/5d71d4cb-bc6d-4343-8945-040cb3533410f431c4f8-f415-49fa-a9ad-f66f2e483395267e3bbb-ff81-497b-a92e-22699665748f20fc1200-71ee-44f2-9d38-81c8f455c4d984733e3f-e117-47a5-8cad-babd13b4674a",
     "downloadUrlOfReport": "https://api.qima.com/file/download/file-id/797EAB24D8C44BEDA2CE04C552D5FFF3",
     "reportMetadata": {
       "generalInfo": [
         {
           "label": "REPORTS.VIEW_REPORT.INSPECTION_DATE",
-          "value": "1761177600000"
+          "value": "1782432000000"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.PO_NO",
+          "value": "PO10863885 + PO10863887"
         },
         {
           "label": "REPORTS.INTERACTIVE_REPORT.SKU",
-          "value": "Olive Green Long Sleeve Tee"
+          "value": "BO-BBR-6918M"
         },
         {
           "label": "REPORTS.INTERACTIVE_REPORT.QUANTITY",
-          "value": "1500 Pcs"
+          "value": "4000 Pcs"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.PRODUCED_QUANTITY",
+          "value": "3470 Pcs"
         },
         {
           "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
           "type": "location",
-          "value": "Ho Chi Minh"
+          "value": "Colombo"
         },
         {
           "label": "REPORTS.INTERACTIVE_REPORT.SUPPLIER",
-          "value": "Long-Sleeve Shirt Clothing Corporation Ltd."
+          "value": "Linea Aqua Pvt Ltd."
         },
         {
           "label": "REPORTS.INTERACTIVE_REPORT.FACTORY",
-          "value": "Example Factory Ltd."
+          "value": "LOGISTIC PARK (PVT ) LTD,390 AVISSAWELLA ROAD, WEL"
         }
       ]
     },
@@ -42,9 +50,9 @@
     },
     "assessmentResults": [
       {
-        "color": "#E5353D",
+        "color": "#00A876",
         "label": "Workmanship",
-        "result": "Fail"
+        "result": "Pass"
       },
       {
         "color": "#E5353D",
@@ -52,27 +60,27 @@
         "result": "Fail"
       },
       {
-        "color": "#E5353D",
+        "color": "#00A876",
         "label": "Measurements",
-        "result": "Fail"
+        "result": "Pass"
       }
     ],
     "clientRating": null,
     "clientRatingFeedback": null,
     "reportDecision": {
       "decidedBy": null,
-      "decision": "Pending",
+      "decision": "Approved",
       "decisionComments": null,
       "decisionReasons": null,
       "decisionTime": "",
       "productReference": [
         {
-          "decision": "Pending",
+          "decision": "Approved",
           "productId": "63CBF838C8CB4A6E9201575AECE1EB86",
           "referenceId": "DB715D2C0EAB4CC0ACE0B3F36081FF54",
-          "referencePoNumber": "LT-CS-0061",
-          "referenceQuantity": 1500,
-          "referenceSkuNumber": "Olive Green Long Sleeve Tee",
+          "referencePoNumber": "PO10863885 + PO10863887",
+          "referenceQuantity": 4000,
+          "referenceSkuNumber": "BO-BBR-6918M",
           "decidedBy": null,
           "decisionComments": null,
           "decisionReasons": null,
@@ -85,28 +93,28 @@
         "generalInfo": [
           {
             "label": "REPORTS.VIEW_REPORT.PRODUCT",
-            "value": "LS STURDY TEE"
+            "value": "3 INCHBOXER BRIEF 3 PACK"
           },
           {
             "label": "REPORTS.VIEW_REPORT.PRODUCT_REF_SKU",
-            "value": "Olive Green Long Sleeve Tee"
+            "value": "BO-BBR-6918M"
           },
           {
             "label": "REPORTS.VIEW_REPORT.PO_NO",
-            "value": "LT-CS-0061"
+            "value": "PO10863885 + PO10863887"
           },
           {
             "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
             "type": "location",
-            "value": "Ho Chi Minh"
+            "value": "Colombo"
           },
           {
             "label": "REPORTS.VIEW_REPORT.INSPECTOR",
-            "value": "Flore Kermel"
+            "value": "QIMA Inspector"
           },
           {
             "label": "REPORTS.VIEW_REPORT.INSPECTOR_REMARK",
-            "value": "1. The factory did not provide any test report during the inspection time.\n2. The supplier did not provide PP counter samples from the client, swatch, trim card, or technical file during the inspection time.\n3. The metal/needle detection machine was out of service.\n4. Measurement checked a total of 32 pcs, and 15 pcs were found out of tolerance; the out-of-tolerance was noticed at +1 3/4 cm to -1 cm as per point. Please refer to the measurement chart for details.\n5. Packed 18 pieces with major defects and 7 pieces with minor defects and sealed with QIMA sticker for your reference. Samples were left on-site with the factory representative.\n6. No model or doll dummy is available at the factory for this item to check fitting/dummy test.\n7. The factory attached only the care label and main label at bulk production (without folding or packing) during the inspection time.\n8. As per the booking order quantity of 1,500 pcs, the supplier offered 15 pcs (1.0%) of goods checked completely before poly. A total of 225 pcs were received from washing and are currently in the finishing section, while the balance goods were sent to the wash factory for washing.\n9. As per the back-office confirmation, 80 pieces were visually checked, and 32 pieces were measured."
+            "value": "1. Product Description - The product name on the client PO sheet does not match the bulk production.\n2. Outer Packing: Assortment, Dims & Weight Result - Factory did not meet the client required carton dimensions.\n3. Inner Packing – NOT OK - Incorrect color sequence was found. Incorrect folding direction was found.\n4. Unit Packing – NOT OK - Incorrect color sequence and folding direction were found.\n5. Available Quantity Check - Factory offered quantity 3470 pcs against booked quantity 4000 pcs.\n6. Carton Packing and Labeling - Carton mark and numbers not completed during the inspection.\n7. Item Packaging - Not found silicone gel or micro sheets in the polybag.\n8. SKIMS - Specific AQL Requirement - This is not a shapewear product (5% AQL Requirement of Shapewear Product N/A)."
           }
         ],
         "mainPicture": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/329e6e5e-a59b-4949-ab9e-e39edc210ac4"
@@ -568,22 +576,22 @@
       "isVisible": true,
       "aqlLevel": "product",
       "inspectionResultSummary": {
-        "checkedCritical": "125",
-        "checkedMajor": "125",
-        "checkedMinor": "125",
+        "checkedCritical": "200",
+        "checkedMajor": "200",
+        "checkedMinor": "200",
         "foundCritical": "0.0",
-        "foundMajor": "10.0",
-        "foundMinor": "8.0",
+        "foundMajor": "3.0",
+        "foundMinor": "10.0",
         "maxCritical": "0",
         "maxMajor": "7",
         "maxMinor": "10",
         "testResults": "Fail",
-        "workmanShipResult": "Beyond AQL",
+        "workmanShipResult": "Within AQL",
         "defects": [
           {
-            "name": "Paint / ink / oil spots",
+            "name": "FB006 Significant/Obvious Slub, snags, foreign yarn",
             "foundCritical": "0.0",
-            "foundMajor": "10.0",
+            "foundMajor": "1.0",
             "foundMinor": "0.0",
             "photos": [
               {
@@ -595,7 +603,15 @@
                 "caption": null,
                 "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/77ffddb3-9eac-4efa-8130-830eccad8760?thumbnail=S128",
                 "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/77ffddb3-9eac-4efa-8130-830eccad8760"
-              },
+              }
+            ]
+          },
+          {
+            "name": "CVS002 Pressing marks",
+            "foundCritical": "0.0",
+            "foundMajor": "1.0",
+            "foundMinor": "0.0",
+            "photos": [
               {
                 "caption": null,
                 "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2f83dfc0-d864-44ad-ba16-02bea5b8e4b3?thumbnail=S128",
@@ -605,7 +621,15 @@
                 "caption": null,
                 "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c84d1b34-5b56-4c6a-8f10-c5514b421768?thumbnail=S128",
                 "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c84d1b34-5b56-4c6a-8f10-c5514b421768"
-              },
+              }
+            ]
+          },
+          {
+            "name": "CVS019 Untrimmed thread end",
+            "foundCritical": "0.0",
+            "foundMajor": "1.0",
+            "foundMinor": "3.0",
+            "photos": [
               {
                 "caption": null,
                 "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e54c4b14-fcc6-4a35-9a0a-80e74959a5a2?thumbnail=S128",
@@ -615,7 +639,15 @@
                 "caption": null,
                 "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/474eb652-3f7b-44c1-9cd9-c0260bbd3313?thumbnail=S128",
                 "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/474eb652-3f7b-44c1-9cd9-c0260bbd3313"
-              },
+              }
+            ]
+          },
+          {
+            "name": "Slanted Logos",
+            "foundCritical": "0.0",
+            "foundMajor": "0.0",
+            "foundMinor": "7.0",
+            "photos": [
               {
                 "caption": null,
                 "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/4e08817d-82b3-4c86-b78e-7ad8566a0a88?thumbnail=S128",
@@ -625,84 +657,11 @@
                 "caption": null,
                 "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/99fbec63-2aa8-4510-bec1-4cbcf1052d67?thumbnail=S128",
                 "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/99fbec63-2aa8-4510-bec1-4cbcf1052d67"
-              },
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b7b840b5-b0de-4015-93b6-2d8ee370b3e5?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b7b840b5-b0de-4015-93b6-2d8ee370b3e5"
-              },
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/bf1907b3-b074-492b-b572-98881ad0b528?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/bf1907b3-b074-492b-b572-98881ad0b528"
-              }
-            ]
-          },
-          {
-            "name": "Wrong color / discoloration (MIN)",
-            "foundCritical": "0.0",
-            "foundMajor": "0.0",
-            "foundMinor": "1.0",
-            "photos": [
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/920769f5-648c-44e8-9513-85cd2dc401cf?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/920769f5-648c-44e8-9513-85cd2dc401cf"
-              }
-            ]
-          },
-          {
-            "name": "Stain / streaks (MIN)",
-            "foundCritical": "0.0",
-            "foundMajor": "0.0",
-            "foundMinor": "4.0",
-            "photos": [
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6535b360-24b2-4cb5-a47f-fb9bde56e34b?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6535b360-24b2-4cb5-a47f-fb9bde56e34b"
-              },
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3871bb8c-8247-4914-9dd9-4231c11d56e8?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3871bb8c-8247-4914-9dd9-4231c11d56e8"
-              },
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/32472bbd-fd4b-4b2f-a645-fd59238edd12?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/32472bbd-fd4b-4b2f-a645-fd59238edd12"
-              },
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3a541709-43fb-4853-bd7b-10282e719adc?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3a541709-43fb-4853-bd7b-10282e719adc"
-              }
-            ]
-          },
-          {
-            "name": "Untrimmed Thread Ends",
-            "foundCritical": "0.0",
-            "foundMajor": "0.0",
-            "foundMinor": "3.0",
-            "photos": [
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f9cb3e97-7ac6-4c5a-9ee7-56357f3b6b8a?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f9cb3e97-7ac6-4c5a-9ee7-56357f3b6b8a"
-              },
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/d6718f45-c27a-49e4-b4cd-13e56d7c42e9?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/d6718f45-c27a-49e4-b4cd-13e56d7c42e9"
-              },
-              {
-                "caption": null,
-                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3828b46d-20bd-4d77-be8c-600c29a12adb?thumbnail=S128",
-                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3828b46d-20bd-4d77-be8c-600c29a12adb"
               }
             ]
           }
-        ]
+        ],
+        "measurementAqlResult": "Pass"
       },
       "productReferenceWorkmanShipResult": null,
       "testAndSpecialRequirement": {
@@ -1517,15 +1476,21 @@
           }
         ]
       },
-      "productMeasurementAQLResult": null,
+      "productMeasurementAQLResult": {
+        "result": "Pass",
+        "sampleSize": 32,
+        "samplesOutOfTolerance": 0,
+        "pointsOfMeasurement": 160,
+        "pointsOfMeasurementOutOfTolerance": 0
+      },
       "productMeasurementResults": [
         {
-          "result": "Fail",
+          "result": "Pass",
           "resultCalculationMethod": "SAMPLES_OUT_OF_TOLERANCE",
           "sampleSize": 32,
-          "samplesOutOfTolerance": 15,
-          "pointsOfMeasurement": 320,
-          "pointsOfMeasurementOutOfTolerance": 23,
+          "samplesOutOfTolerance": 0,
+          "pointsOfMeasurement": 160,
+          "pointsOfMeasurementOutOfTolerance": 0,
           "spotlightPhotos": [
             {
               "caption": null,
@@ -1586,51 +1551,51 @@
       "generalInfo": [
         {
           "label": "REPORTS.INTERACTIVE_REPORT.SUPPLIER",
-          "value": "Long-Sleeve Shirt Clothing Corporation Ltd."
+          "value": "Linea Aqua Pvt Ltd."
         },
         {
           "label": "REPORTS.INTERACTIVE_REPORT.FACTORY",
-          "value": "Example Factory Ltd."
+          "value": "LOGISTIC PARK (PVT ) LTD,390 AVISSAWELLA ROAD, WEL"
         },
         {
           "label": "REPORTS.VIEW_REPORT.INSPECTION_DATE",
-          "value": "1761177600000"
+          "value": "1782432000000"
         },
         {
           "label": "REPORTS.VIEW_REPORT.INSPECTOR",
-          "value": "Flore Kermel"
+          "value": "QIMA Inspector"
         },
         {
           "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
           "type": "location",
-          "value": "Ho Chi Minh"
+          "value": "Colombo"
         }
       ],
-      "serviceDescription": "Initial Production Check",
-      "serviceType": "IPC"
+      "serviceDescription": "Pre-Shipment Inspection",
+      "serviceType": "PSI"
     },
     "productDetails": {
       "generalInfo": [
         {
           "label": "REPORTS.INTERACTIVE_REPORT.SKU",
-          "value": "Olive Green Long Sleeve Tee"
+          "value": "BO-BBR-6918M"
         },
         {
           "label": "REPORTS.INTERACTIVE_REPORT.SHIPMENT_DATE",
-          "value": "1761782400000"
+          "value": "1782432000000"
         },
         {
           "label": "REPORTS.INTERACTIVE_REPORT.QUANTITY",
-          "value": "1500 Pcs"
+          "value": "4000 Pcs"
         },
         {
           "label": "REPORTS.INTERACTIVE_REPORT.PRODUCED_QUANTITY",
-          "value": "1500 Pcs"
+          "value": "3470 Pcs"
         }
       ],
       "mainPicture": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/329e6e5e-a59b-4949-ab9e-e39edc210ac4",
-      "poNumber": "LT-CS-0061",
-      "productName": "LS STURDY TEE",
+      "poNumber": "PO10863885 + PO10863887",
+      "productName": "3 INCHBOXER BRIEF 3 PACK",
       "prodQuantityUnit": "Pcs"
     },
     "specialIP": null,
