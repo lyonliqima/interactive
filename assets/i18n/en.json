@@ -2177,6 +2177,7 @@
       "CATEGORY": "Category",
       "WORKMANSHIP": "Workmanship",
       "DEFECT_PIECES": "Defective pieces:",
+      "DEFECTIVE_RATE": "Defective rate",
       "DEFECTS_FOUND": "Defects found:",
       "DEFECTS_ALLOWED": "Defects allowed:",
       "CRITICAL_SHORT": "CRI",

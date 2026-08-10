@@ -2168,6 +2168,7 @@
       "CATEGORY": "Categoría",
       "WORKMANSHIP": "Mano de obra",
       "DEFECT_PIECES": "Piezas defectuosas",
+      "DEFECTIVE_RATE": "Tasa de defectos",
       "DEFECTS_FOUND": "Defectos encontrados",
       "DEFECTS_ALLOWED": "Defectos permitidos",
       "CRITICAL_SHORT": "CRI",
