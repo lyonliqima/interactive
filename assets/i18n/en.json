@@ -2235,6 +2235,7 @@
       "PASSED_TESTS_TOOLTIP": "Remaining tests were marked as Not Applicable. Click “See details” for the full test list.",
       "FAILED_TESTS_TOOLTIP": "Remaining tests were marked as Passed or Not Applicable. Click “See details” for the full test list.",
       "FAILED_TESTS": "Failed tests",
+      "EXECUTIVE_SUMMARY_V3_PACKING_REPEAT_TOOLTIP": "11 issues out of 13 inspections in the last month",
       "SAMPLE_SIZE": "Sample size:",
       "TOTAL_TESTS": "Total tests",
       "UNIT": "Unit",

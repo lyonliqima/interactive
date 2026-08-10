@@ -5253,5 +5253,166 @@
     "sourceUrl": "https://my.qima.com/interactive-report-v2/BAC0A6D3526B4D6C875539ED4D425F00/865DA315814D4463B1277C89E0AC5A0D",
     "productId": "865DA315814D4463B1277C89E0AC5A0D",
     "orderId": "BAC0A6D3526B4D6C875539ED4D425F00"
+  },
+  "aiSummary": {
+    "alsoWorthNoting": [
+      {
+        "description": "The factory supplied 3,470 pieces against the booked quantity of 4,000 pieces, resulting in a shortage of 530 pieces (86.75%). Total cartons: 36; selected cartons: 15.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-5",
+            "actionTitle": "Shipping quantity vs inspected quantity",
+            "actionContent": "Before approving an inspection, verify the shipped quantity with the factory, especially if the production quantity is lower than your purchase order. This helps prevent confusion upon product arrival and avoids invoice discrepancies."
+          }
+        ]
+      },
+      {
+        "description": "Carton packing and specification: N/A. Carton marks and numbers were not completed during the inspection.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-6",
+            "actionTitle": "Prevent Incorrect Carton Assortment",
+            "actionContent": "Ensure that each carton is clearly labeled with item details, quantities, and destination information, utilizing barcode or QR code systems for accuracy on each carton for easy verification."
+          }
+        ]
+      },
+      {
+        "description": "The factory did not repack the inspected garments in front of the QIMA inspector due to time constraints and insufficient manpower for hand-to-hand packing. As the supplier required additional time, the QIMA inspector could not observe the repacking process.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-7",
+            "actionTitle": "Repacking of inspected goods",
+            "actionContent": "Inspected pieces must be repacked by the factory at the end of the inspection under QIMA's supervision to ensure no defective pieces are included in the shipments."
+          }
+        ]
+      },
+      {
+        "description": "The PP sample includes two SKUs under the same sample. The factory provided an internal email confirming both SKUs follow the same PP sample.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      },
+      {
+        "description": "Trim card and shade bands approved internally.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      }
+    ],
+    "fileId": "singlefile-mock",
+    "likeType": "UNLIKE",
+    "measurements": {
+      "description": "The measurements are passed: 0 pcs (0%) were out of tolerances, out of 32 pcs measured.",
+      "itemContent": "",
+      "photoList": {
+        "measurementsPhotos": []
+      },
+      "recommendedActions": [],
+      "result": "Pass"
+    },
+    "nonConformities": [
+      {
+        "description": "The product name on the client PO sheet does not match the product name on the inner pack. The factory provided a client-approved email, but it only addresses the January delivery concern and does not resolve the mismatch. Status: NOT OK.",
+        "itemContent": "",
+        "photoList": {
+          "testPhotos": [
+            {
+              "name": "Product Description",
+              "comment": "The product name on the client PO sheet does not match the product name on the inner pack. The factory provided a client-approved email, but it only addresses the January delivery concern and does not resolve the mismatch. Status: NOT OK.",
+              "testResult": "Fail",
+              "photos": []
+            }
+          ]
+        },
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-1",
+            "actionTitle": "Updated specifications for accurate results",
+            "actionContent": "Specifications evolve over time. To ensure the factory and our inspector are aligned with your expectations, specifications must be kept updated at all times."
+          }
+        ]
+      },
+      {
+        "description": "The factory did not meet the client-required carton dimensions during inspection (70 cm x 33 cm x 47 cm, L x H x W). The factory sent an email stating new dimensions are being used, but there is no confirmation of client approval for these revised dimensions.",
+        "itemContent": "",
+        "photoList": {
+          "testPhotos": [
+            {
+              "name": "Outer Packing: Assortment, Dims & Weight Result",
+              "comment": "The factory did not meet the client-required carton dimensions during inspection (70 cm x 33 cm x 47 cm, L x H x W). The factory sent an email stating new dimensions are being used, but there is no confirmation of client approval for these revised dimensions.",
+              "testResult": "Fail",
+              "photos": []
+            }
+          ]
+        },
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-2",
+            "actionTitle": "Packaging compliance with warehouse requirements",
+            "actionContent": "With warehouses and logistics companies strengthening their requirements on carton sizes and weight, it is critical to ensure the actual weight, dimensions and shipping marks of the cartons are within the acceptable range to avoid penalties and delays on your shipment."
+          }
+        ]
+      },
+      {
+        "description": "Incorrect color sequence and folding direction were found; garments were placed in the inner box in the wrong orientation.",
+        "itemContent": "",
+        "photoList": {
+          "testPhotos": [
+            {
+              "name": "Inner Packing",
+              "comment": "Incorrect color sequence and folding direction were found; garments were placed in the inner box in the wrong orientation.",
+              "testResult": "Fail",
+              "photos": []
+            }
+          ]
+        },
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-3",
+            "actionTitle": "Standardized Packing Procedures",
+            "actionContent": "Develop and enforce standardized packing procedures across all teams. Create detailed instructions and checklists to guide the packing process. Use visual aids like diagrams or photos to illustrate proper packing methods and layouts."
+          }
+        ]
+      }
+    ],
+    "orderNumber": "Q2614889886",
+    "workmanshipAql": {
+      "description": "The workmanship is within AQL.",
+      "itemContent": "",
+      "inspectionResultSummary": {
+        "foundCritical": "0",
+        "foundMajor": "3",
+        "foundMinor": "3",
+        "maxCritical": "0",
+        "maxMajor": "7",
+        "maxMinor": "10"
+      },
+      "photoList": {
+        "defectsPhotos": [
+          {
+            "name": "FB006 Significant/Obvious Slub, snags, foreign yarn/fiber, Pilling, repairs",
+            "foundCritical": "0",
+            "foundMajor": "1",
+            "foundMinor": "0",
+            "comment": "",
+            "photos": []
+          }
+        ]
+      },
+      "recommendedActions": [
+        {
+          "actionId": "singlefile-reco-4",
+          "actionTitle": "Schedule a fabric Inspection on your next production",
+          "actionContent": "When repetitive and obvious defects are found on the fabric, we suggest arranging fabric inspection to minimize costly disruptions, and maintain fabric quality and integrity."
+        }
+      ],
+      "result": "Within AQL"
+    }
   }
 }

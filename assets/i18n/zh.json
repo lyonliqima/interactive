@@ -2225,6 +2225,7 @@
       "PASSED_TESTS_TOOLTIP": "所有剩余的测试已标记为不适用。点击“查看详情”以查看完整的测试列表。",
       "FAILED_TESTS_TOOLTIP": "所有剩余的测试已标记为通过或不适用。点击“查看详情”以查看完整的测试列表。",
       "FAILED_TESTS": "失败的测试",
+      "EXECUTIVE_SUMMARY_V3_PACKING_REPEAT_TOOLTIP": "最近一个月做了13次，出了11次问题",
       "SAMPLE_SIZE": "样本大小",
       "TOTAL_TESTS": "全部检测",
       "UNIT": "单位",

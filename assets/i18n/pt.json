@@ -2225,6 +2225,7 @@
       "PASSED_TESTS_TOOLTIP": "Todos os testes restantes foram marcados como Não Aplicáveis. Clique em “Ver detalhes” para ver a lista completa de testes.",
       "FAILED_TESTS_TOOLTIP": "Todos os testes restantes foram marcados como Aprovados ou Não Aplicáveis. Clique em “Ver detalhes” para ver a lista completa de testes.",
       "FAILED_TESTS": "Testes falhados",
+      "EXECUTIVE_SUMMARY_V3_PACKING_REPEAT_TOOLTIP": "11 problemas em 13 inspeções no último mês",
       "SAMPLE_SIZE": "Tamanho da amostra",
       "TOTAL_TESTS": "Total de testes",
       "UNIT": "Unidade",
