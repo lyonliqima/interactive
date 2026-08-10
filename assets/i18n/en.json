@@ -2361,6 +2361,8 @@
       "EXPAND_SECTION_ARIA": "Expand AI summary",
       "COLLAPSE_SECTION_ARIA": "Collapse AI summary",
       "KEY_TAKEAWAYS": "Key takeaways",
+      "CHECKLISTS_AND_TESTS": "Checklists & tests",
+      "VIEW_OTHER_FINDINGS": "View other findings",
       "DESCRIPTION": "This summary highlights key non-conformities and deviations from the inspection. Please refer to the full report to make a final decision.",
       "DESCRIPTION_ERROR": "Data unavailable. Try again later or view the interactive report for more information.",
       "NON_CONFORMITIES": "Non-Conformities",

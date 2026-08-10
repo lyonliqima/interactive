@@ -2351,6 +2351,8 @@
       "EXPAND_SECTION_ARIA": "Expandir resumo de IA",
       "COLLAPSE_SECTION_ARIA": "Recolher resumo de IA",
       "KEY_TAKEAWAYS": "Principais pontos",
+      "CHECKLISTS_AND_TESTS": "Checklists e testes",
+      "VIEW_OTHER_FINDINGS": "Ver outras constatações",
       "DESCRIPTION": "Este resumo destaca as principais não conformidades e desvios da inspeção. Por favor, consulte o relatório completo para tomar uma decisão final.",
       "DESCRIPTION_ERROR": "Dados indisponíveis. Tente novamente mais tarde ou veja o relatório interativo para mais informações.",
       "NON_CONFORMITIES": "Não conformidades",

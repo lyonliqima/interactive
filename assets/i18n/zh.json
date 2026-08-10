@@ -2351,6 +2351,8 @@
       "EXPAND_SECTION_ARIA": "展开 AI 摘要",
       "COLLAPSE_SECTION_ARIA": "收起 AI 摘要",
       "KEY_TAKEAWAYS": "关键要点",
+      "CHECKLISTS_AND_TESTS": "检查清单与测试",
+      "VIEW_OTHER_FINDINGS": "查看其他发现",
       "DESCRIPTION": "此摘要重点强调了检验中的主要不合格项和偏差。请参阅完整报告以做出最终决定。",
       "DESCRIPTION_ERROR": "数据暂不可用，请稍后重试，或查看交互式报告以获取更多信息。",
       "NON_CONFORMITIES": "不符合项",
