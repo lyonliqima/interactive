@@ -2386,7 +2386,13 @@
       "RECOMMENDATION_FEEDBACK_COMMENT_PLACEHOLDER": "Please share your feedback so we can improve this recommendation...",
       "RECOMMENDATION_FEEDBACK_SUBMIT": "Submit",
       "RECOMMENDATION_FEEDBACK_SUBMIT_ERROR": "We couldn't save your feedback. Please try again.",
-      "RECOMMENDATION_FEEDBACK_CANCEL": "Cancel"
+      "RECOMMENDATION_FEEDBACK_CANCEL": "Cancel",
+      "SUMMARY_DISLIKE_FEEDBACK_TITLE": "Please tell us what went wrong",
+      "SUMMARY_DISLIKE_FEEDBACK_REGION_ARIA": "Feedback about this AI summary",
+      "SUMMARY_DISLIKE_CHIP_INACCURATE": "Inaccurate/incomplete summary",
+      "SUMMARY_DISLIKE_CHIP_IRRELEVANT_PHOTOS": "Irrelevant photos",
+      "SUMMARY_DISLIKE_CHIP_NOT_USEFUL": "Not useful",
+      "SUMMARY_DISLIKE_COMMENT_PLACEHOLDER": "Add more detail (optional)"
     }
   },
   "SUPPLIER_DOCUMENTS": {

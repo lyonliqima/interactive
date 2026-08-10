@@ -2337,7 +2337,13 @@
       "RECOMMENDATION_FEEDBACK_COMMENT_PLACEHOLDER": "Comparta sus comentarios para que podamos mejorar esta recomendación...",
       "RECOMMENDATION_FEEDBACK_SUBMIT": "Enviar",
       "RECOMMENDATION_FEEDBACK_SUBMIT_ERROR": "No pudimos guardar sus comentarios. Inténtelo de nuevo.",
-      "RECOMMENDATION_FEEDBACK_CANCEL": "Cancelar"
+      "RECOMMENDATION_FEEDBACK_CANCEL": "Cancelar",
+      "SUMMARY_DISLIKE_FEEDBACK_TITLE": "Cuéntenos qué salió mal",
+      "SUMMARY_DISLIKE_FEEDBACK_REGION_ARIA": "Comentarios sobre este resumen de IA",
+      "SUMMARY_DISLIKE_CHIP_INACCURATE": "Resumen inexacto/incompleto",
+      "SUMMARY_DISLIKE_CHIP_IRRELEVANT_PHOTOS": "Fotos irrelevantes",
+      "SUMMARY_DISLIKE_CHIP_NOT_USEFUL": "No es útil",
+      "SUMMARY_DISLIKE_COMMENT_PLACEHOLDER": "Añadir más detalles (opcional)"
     },
     "THIRD_PARTY_REPORT": {
       "ADD_REPORT_TITLE": "Nuevo Informe de Terceros",

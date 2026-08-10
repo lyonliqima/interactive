@@ -2376,7 +2376,13 @@
       "RECOMMENDATION_FEEDBACK_COMMENT_PLACEHOLDER": "Partilhe o seu feedback para podermos melhorar esta recomendação...",
       "RECOMMENDATION_FEEDBACK_SUBMIT": "Enviar",
       "RECOMMENDATION_FEEDBACK_SUBMIT_ERROR": "Não foi possível guardar o seu feedback. Tente novamente.",
-      "RECOMMENDATION_FEEDBACK_CANCEL": "Cancelar"
+      "RECOMMENDATION_FEEDBACK_CANCEL": "Cancelar",
+      "SUMMARY_DISLIKE_FEEDBACK_TITLE": "Diga-nos o que correu mal",
+      "SUMMARY_DISLIKE_FEEDBACK_REGION_ARIA": "Feedback sobre este resumo de IA",
+      "SUMMARY_DISLIKE_CHIP_INACCURATE": "Resumo impreciso/incompleto",
+      "SUMMARY_DISLIKE_CHIP_IRRELEVANT_PHOTOS": "Fotos irrelevantes",
+      "SUMMARY_DISLIKE_CHIP_NOT_USEFUL": "Não é útil",
+      "SUMMARY_DISLIKE_COMMENT_PLACEHOLDER": "Adicionar mais detalhes (opcional)"
     }
   },
   "SUPPLIER_DOCUMENTS": {
