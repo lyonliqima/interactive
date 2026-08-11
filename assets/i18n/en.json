@@ -2176,6 +2176,7 @@
       "QUANTITY": "Order quantity",
       "CATEGORY": "Category",
       "WORKMANSHIP": "Workmanship",
+      "MEASUREMENTS": "Measurements",
       "DEFECT_PIECES": "Defective pieces:",
       "DEFECTIVE_RATE": "Defective rate",
       "DEFECTS_FOUND": "Defects found:",

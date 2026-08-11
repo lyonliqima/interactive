@@ -2166,6 +2166,7 @@
       "QUANTITY": "订单数量",
       "CATEGORY": "类别",
       "WORKMANSHIP": "工艺",
+      "MEASUREMENTS": "尺寸测量",
       "DEFECT_PIECES": "缺陷件数",
       "DEFECTIVE_RATE": "不良率",
       "DEFECTS_FOUND": "发现的缺陷",
