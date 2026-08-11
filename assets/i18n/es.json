@@ -2201,6 +2201,7 @@
         "FILTER_MEASUREMENTS": "Mediciones",
         "FILTER_CHECKLIST_AND_TEST": "Lista de verificación y pruebas",
         "FILTER_FAIL": "Fail",
+        "FILTER_PASS": "Pass",
         "FILTER_CRITICAL": "Critical",
         "FILTER_MAJOR": "Major",
         "FILTER_MINOR": "Minor",

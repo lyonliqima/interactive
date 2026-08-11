@@ -2200,6 +2200,7 @@
         "FILTER_MEASUREMENTS": "尺寸测量",
         "FILTER_CHECKLIST_AND_TEST": "Checklist 与测试",
         "FILTER_FAIL": "不合格",
+        "FILTER_PASS": "合格",
         "FILTER_CRITICAL": "关键",
         "FILTER_MAJOR": "重要",
         "FILTER_MINOR": "次要",

@@ -2210,6 +2210,7 @@
         "FILTER_MEASUREMENTS": "Measurements",
         "FILTER_CHECKLIST_AND_TEST": "Checklist and test",
         "FILTER_FAIL": "Fail",
+        "FILTER_PASS": "Pass",
         "FILTER_CRITICAL": "Critical",
         "FILTER_MAJOR": "Major",
         "FILTER_MINOR": "Minor",
