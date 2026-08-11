@@ -2401,7 +2401,7 @@
       "SUMMARY_DISLIKE_FEEDBACK_REGION_ARIA": "Feedback about this AI summary",
       "SUMMARY_DISLIKE_CHIP_INACCURATE": "Inaccurate/incomplete summary",
       "SUMMARY_DISLIKE_CHIP_IRRELEVANT_PHOTOS": "Irrelevant photos",
-      "SUMMARY_DISLIKE_CHIP_NOT_USEFUL": "Not useful",
+      "SUMMARY_DISLIKE_CHIP_NOT_USEFUL": "Not useful recommendations",
       "SUMMARY_DISLIKE_COMMENT_PLACEHOLDER": "Add more detail (optional)",
       "SUMMARY_FEEDBACK_THANK_YOU": "Thank you for your feedback."
     }
