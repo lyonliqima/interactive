@@ -1,0 +1,1610 @@
+{
+  "message": "OK",
+  "content": {
+    "reportId": "63CBF838C8CB4A6E9201575AECE1EB86",
+    "reportNumber": "LS STURDY TEE",
+    "orderId": "4CE45F5E5F42484785D2103A761C4DC4",
+    "orderNumber": "Q2524297730",
+    "downloadUrlOfPhotos": "https://app.qimaone.com/api/inspection/documents/5d71d4cb-bc6d-4343-8945-040cb3533410f431c4f8-f415-49fa-a9ad-f66f2e483395267e3bbb-ff81-497b-a92e-22699665748f20fc1200-71ee-44f2-9d38-81c8f455c4d984733e3f-e117-47a5-8cad-babd13b4674a",
+    "downloadUrlOfReport": "https://api.qima.com/file/download/file-id/797EAB24D8C44BEDA2CE04C552D5FFF3",
+    "overallResult": {
+      "isMissed": false,
+      "overallResult": "Fail"
+    },
+    "assessmentResults": [
+      {
+        "color": "#E5353D",
+        "label": "Workmanship",
+        "result": "Fail"
+      },
+      {
+        "color": "#E5353D",
+        "label": "Checklists & tests",
+        "result": "Fail"
+      },
+      {
+        "color": "#E5353D",
+        "label": "Measurements",
+        "result": "Fail"
+      }
+    ],
+    "clientRating": null,
+    "clientRatingFeedback": null,
+    "reportDecision": {
+      "decidedBy": null,
+      "decision": "Pending",
+      "decisionComments": null,
+      "decisionReasons": null,
+      "decisionTime": "",
+      "productReference": [
+        {
+          "decision": "Pending",
+          "productId": "63CBF838C8CB4A6E9201575AECE1EB86",
+          "referenceId": "DB715D2C0EAB4CC0ACE0B3F36081FF54",
+          "referencePoNumber": "LT-CS-0061",
+          "referenceQuantity": 1500,
+          "referenceSkuNumber": "Olive Green Long Sleeve Tee",
+          "decidedBy": null,
+          "decisionComments": null,
+          "decisionReasons": null,
+          "decisionTime": ""
+        }
+      ]
+    },
+    "overview": {
+      "overviewDetail": {
+        "generalInfo": [
+          {
+            "label": "REPORTS.VIEW_REPORT.PRODUCT",
+            "value": "LS STURDY TEE"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.PRODUCT_REF_SKU",
+            "value": "Olive Green Long Sleeve Tee"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.PO_NO",
+            "value": "LT-CS-0061"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
+            "type": "location",
+            "value": "Ho Chi Minh"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.INSPECTOR",
+            "value": "Flore Kermel"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.INSPECTOR_REMARK",
+            "value": "1. The factory did not provide any test report during the inspection time.\n2. The supplier did not provide PP counter samples from the client, swatch, trim card, or technical file during the inspection time.\n3. The metal/needle detection machine was out of service.\n4. Measurement checked a total of 32 pcs, and 15 pcs were found out of tolerance; the out-of-tolerance was noticed at +1 3/4 cm to -1 cm as per point. Please refer to the measurement chart for details.\n5. Packed 18 pieces with major defects and 7 pieces with minor defects and sealed with QIMA sticker for your reference. Samples were left on-site with the factory representative.\n6. No model or doll dummy is available at the factory for this item to check fitting/dummy test.\n7. The factory attached only the care label and main label at bulk production (without folding or packing) during the inspection time.\n8. As per the booking order quantity of 1,500 pcs, the supplier offered 15 pcs (1.0%) of goods checked completely before poly. A total of 225 pcs were received from washing and are currently in the finishing section, while the balance goods were sent to the wash factory for washing.\n9. As per the back-office confirmation, 80 pieces were visually checked, and 32 pieces were measured."
+          }
+        ],
+        "mainPicture": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/329e6e5e-a59b-4949-ab9e-e39edc210ac4"
+      }
+    },
+    "photos": [
+      {
+        "categories": [
+          {
+            "title": "IPC - Defect - General Garments",
+            "photos": [
+              {
+                "caption": "Stain / streaks (MIN)",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6535b360-24b2-4cb5-a47f-fb9bde56e34b?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6535b360-24b2-4cb5-a47f-fb9bde56e34b"
+              },
+              {
+                "caption": "Stain / streaks (MIN)",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3871bb8c-8247-4914-9dd9-4231c11d56e8?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3871bb8c-8247-4914-9dd9-4231c11d56e8"
+              },
+              {
+                "caption": "Stain / streaks (MIN)",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/32472bbd-fd4b-4b2f-a645-fd59238edd12?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/32472bbd-fd4b-4b2f-a645-fd59238edd12"
+              },
+              {
+                "caption": "Stain / streaks (MIN)",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3a541709-43fb-4853-bd7b-10282e719adc?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3a541709-43fb-4853-bd7b-10282e719adc"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2af90545-c3b2-4061-bb23-7705c5ebcb00?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2af90545-c3b2-4061-bb23-7705c5ebcb00"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/77ffddb3-9eac-4efa-8130-830eccad8760?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/77ffddb3-9eac-4efa-8130-830eccad8760"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2f83dfc0-d864-44ad-ba16-02bea5b8e4b3?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2f83dfc0-d864-44ad-ba16-02bea5b8e4b3"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c84d1b34-5b56-4c6a-8f10-c5514b421768?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c84d1b34-5b56-4c6a-8f10-c5514b421768"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e54c4b14-fcc6-4a35-9a0a-80e74959a5a2?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e54c4b14-fcc6-4a35-9a0a-80e74959a5a2"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/474eb652-3f7b-44c1-9cd9-c0260bbd3313?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/474eb652-3f7b-44c1-9cd9-c0260bbd3313"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/4e08817d-82b3-4c86-b78e-7ad8566a0a88?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/4e08817d-82b3-4c86-b78e-7ad8566a0a88"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/99fbec63-2aa8-4510-bec1-4cbcf1052d67?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/99fbec63-2aa8-4510-bec1-4cbcf1052d67"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b7b840b5-b0de-4015-93b6-2d8ee370b3e5?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b7b840b5-b0de-4015-93b6-2d8ee370b3e5"
+              },
+              {
+                "caption": "Paint / ink / oil spots",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/bf1907b3-b074-492b-b572-98881ad0b528?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/bf1907b3-b074-492b-b572-98881ad0b528"
+              },
+              {
+                "caption": "Wrong color / discoloration (MIN)",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/920769f5-648c-44e8-9513-85cd2dc401cf?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/920769f5-648c-44e8-9513-85cd2dc401cf"
+              },
+              {
+                "caption": "Untrimmed Thread Ends",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f9cb3e97-7ac6-4c5a-9ee7-56357f3b6b8a?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f9cb3e97-7ac6-4c5a-9ee7-56357f3b6b8a"
+              },
+              {
+                "caption": "Untrimmed Thread Ends",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/d6718f45-c27a-49e4-b4cd-13e56d7c42e9?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/d6718f45-c27a-49e4-b4cd-13e56d7c42e9"
+              },
+              {
+                "caption": "Untrimmed Thread Ends",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3828b46d-20bd-4d77-be8c-600c29a12adb?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3828b46d-20bd-4d77-be8c-600c29a12adb"
+              }
+            ]
+          },
+          {
+            "title": "IPC - Standard Checklist",
+            "photos": [
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/aaf41613-b07d-4644-8a43-c11fc0d0cfdf?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/aaf41613-b07d-4644-8a43-c11fc0d0cfdf"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/513119c2-bf15-49ec-868c-ce5de2ae527b?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/513119c2-bf15-49ec-868c-ce5de2ae527b"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c11a77f3-2681-4bbd-bb0c-a0289b3de991?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c11a77f3-2681-4bbd-bb0c-a0289b3de991"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/80fbee19-5f7c-4f5a-909d-ea7dffb73a29?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/80fbee19-5f7c-4f5a-909d-ea7dffb73a29"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e1527aad-51c4-46bc-92b2-7c1542cc653e?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e1527aad-51c4-46bc-92b2-7c1542cc653e"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3d375de0-bb0d-4ebf-9f1d-cc3a43c0a40e?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3d375de0-bb0d-4ebf-9f1d-cc3a43c0a40e"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/eb2f48f8-82cf-4e52-a5cc-0891d0925b2b?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/eb2f48f8-82cf-4e52-a5cc-0891d0925b2b"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ce4d7ace-6bd0-4670-a2cd-5cfbf93359ed?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ce4d7ace-6bd0-4670-a2cd-5cfbf93359ed"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8d83e5e4-0883-42b4-bc72-56db07ed0689?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8d83e5e4-0883-42b4-bc72-56db07ed0689"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/07513599-723c-45ff-aed4-49ac8accd7e6?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/07513599-723c-45ff-aed4-49ac8accd7e6"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0474a530-a3e6-4fdf-888a-842348ac7f1c?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0474a530-a3e6-4fdf-888a-842348ac7f1c"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9aa1a5c6-874f-402f-a063-efac21a4be07?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9aa1a5c6-874f-402f-a063-efac21a4be07"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/caa684c8-4d76-4a64-a134-464a0ac1d131?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/caa684c8-4d76-4a64-a134-464a0ac1d131"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/855d2189-35a3-4ddf-b29a-074ede24aa1c?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/855d2189-35a3-4ddf-b29a-074ede24aa1c"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ab21c07b-216e-4dc9-861f-d78a824874ad?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ab21c07b-216e-4dc9-861f-d78a824874ad"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e6ec5dce-eb88-4fba-998d-a42699c3d78b?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e6ec5dce-eb88-4fba-998d-a42699c3d78b"
+              },
+              {
+                "caption": "Manufacturing Process",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a7ff3afa-03a3-4eea-9a19-2cc2a2860e89?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a7ff3afa-03a3-4eea-9a19-2cc2a2860e89"
+              },
+              {
+                "caption": "Manufacturing Process",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a531a767-ab6f-4baf-b4da-17d6b6c87f1e?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a531a767-ab6f-4baf-b4da-17d6b6c87f1e"
+              },
+              {
+                "caption": "Manufacturing Process",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/98d78fbd-d118-49d3-82fb-50c6257b0e3b?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/98d78fbd-d118-49d3-82fb-50c6257b0e3b"
+              },
+              {
+                "caption": "Manufacturing Process",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e46b87e4-813a-4516-8db2-94358fe9d541?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e46b87e4-813a-4516-8db2-94358fe9d541"
+              }
+            ]
+          },
+          {
+            "title": "IPC - Quantity & Packaging",
+            "photos": [
+              {
+                "caption": "Available Quantity Check: Finished&Packed&Unpacked",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9f360eb3-faf6-45b1-88d3-26d2e94942bf?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9f360eb3-faf6-45b1-88d3-26d2e94942bf"
+              },
+              {
+                "caption": "Available Quantity Check: Finished&Packed&Unpacked",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/123d83a6-6686-40d0-a6f0-d241dc089d41?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/123d83a6-6686-40d0-a6f0-d241dc089d41"
+              },
+              {
+                "caption": "Available Quantity Check: Finished&Packed&Unpacked",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/7be71625-54ac-41be-a304-e196ef426209?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/7be71625-54ac-41be-a304-e196ef426209"
+              },
+              {
+                "caption": "Available Quantity Check: Finished&Packed&Unpacked",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9c5fc78e-d8b2-4db6-99e4-b7a8bf21eaca?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9c5fc78e-d8b2-4db6-99e4-b7a8bf21eaca"
+              },
+              {
+                "caption": "Available Quantity Check: Finished&Packed&Unpacked",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f4352f4f-018e-47a3-afc3-32f308fd350c?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f4352f4f-018e-47a3-afc3-32f308fd350c"
+              }
+            ]
+          },
+          {
+            "title": "IPC - Product Specifications - SL",
+            "photos": [
+              {
+                "caption": "Product Color",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/56a1eaa9-de2f-4886-a061-e5efc11cf0dc?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/56a1eaa9-de2f-4886-a061-e5efc11cf0dc"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6d995301-431d-4f41-b316-404e3130368b?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6d995301-431d-4f41-b316-404e3130368b"
+              },
+              {
+                "caption": "Random carton selection",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ee675551-af4e-442e-bd14-382b2e62e813?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ee675551-af4e-442e-bd14-382b2e62e813"
+              },
+              {
+                "caption": "Cartons after selection",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2a646204-b274-4724-b0ba-618441c1c0dd?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2a646204-b274-4724-b0ba-618441c1c0dd"
+              },
+              {
+                "caption": "Selected cartons",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a0405e06-f0ba-4f5f-9711-8e9d056c15b9?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a0405e06-f0ba-4f5f-9711-8e9d056c15b9"
+              },
+              {
+                "caption": "Cartons before selection",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b8c0c7bb-e5f4-4e1a-afac-3795f3e62e2d?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b8c0c7bb-e5f4-4e1a-afac-3795f3e62e2d"
+              }
+            ]
+          },
+          {
+            "title": "IPC - Test - General Garments",
+            "photos": [
+              {
+                "caption": "Binding check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b81ba846-f08e-4ec8-a955-3170627e538f?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b81ba846-f08e-4ec8-a955-3170627e538f"
+              },
+              {
+                "caption": "Binding check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0073feba-199b-4a20-8670-345bc0033059?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0073feba-199b-4a20-8670-345bc0033059"
+              },
+              {
+                "caption": "Ironing, washing, treatment check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/1ee5212c-fa3d-4e24-bfdd-e684d3fbf1bb?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/1ee5212c-fa3d-4e24-bfdd-e684d3fbf1bb"
+              },
+              {
+                "caption": "Odor check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/24df12fd-51c6-4705-976d-f7910f29a30c?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/24df12fd-51c6-4705-976d-f7910f29a30c"
+              },
+              {
+                "caption": "Fabric weight test",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e9837317-6b61-420d-a627-7df40cc53133?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e9837317-6b61-420d-a627-7df40cc53133"
+              },
+              {
+                "caption": "Fabric weight test",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c7e2255b-25ee-495f-bd5d-f6a58a9e5790?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c7e2255b-25ee-495f-bd5d-f6a58a9e5790"
+              },
+              {
+                "caption": "Color shading check ",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8c07611c-34ae-42fd-9ee4-27906fcbac25?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8c07611c-34ae-42fd-9ee4-27906fcbac25"
+              },
+              {
+                "caption": "Color shading check ",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0af0b6d7-1010-4157-b903-428d239ceb80?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0af0b6d7-1010-4157-b903-428d239ceb80"
+              },
+              {
+                "caption": "Seam strength test",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/89608680-64ab-4dc8-94d4-535e36a622a8?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/89608680-64ab-4dc8-94d4-535e36a622a8"
+              },
+              {
+                "caption": "Symmetry check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2ba284e7-07dd-4886-8273-fcf8a35d78e7?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2ba284e7-07dd-4886-8273-fcf8a35d78e7"
+              },
+              {
+                "caption": "Stitch density check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/08535cf0-7dc4-4817-af11-1fe0e473f14f?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/08535cf0-7dc4-4817-af11-1fe0e473f14f"
+              },
+              {
+                "caption": "Color specification check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/cfb20b7c-9896-4b67-95c0-a9b5914cd605?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/cfb20b7c-9896-4b67-95c0-a9b5914cd605"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/334cd3da-a3bb-4a5c-88aa-a312f85f5896?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/334cd3da-a3bb-4a5c-88aa-a312f85f5896"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/057db278-974f-41a6-a315-8b3d75c604cf?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/057db278-974f-41a6-a315-8b3d75c604cf"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/dc1efd3f-9aed-4cb1-81d0-736d900a5356?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/dc1efd3f-9aed-4cb1-81d0-736d900a5356"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ce3e87a2-c420-4e67-91ff-a98d4d853cdd?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ce3e87a2-c420-4e67-91ff-a98d4d853cdd"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/dab8f5c2-7a09-4860-9f52-dd4b64375393?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/dab8f5c2-7a09-4860-9f52-dd4b64375393"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/61829bd8-cbbc-454a-be50-876355f9ead0?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/61829bd8-cbbc-454a-be50-876355f9ead0"
+              },
+              {
+                "caption": "Needle damage check",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3ad58525-a2a1-42e9-b52d-578499fa76fc?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3ad58525-a2a1-42e9-b52d-578499fa76fc"
+              }
+            ]
+          },
+          {
+            "title": "IPC - Factory Review",
+            "photos": [
+              {
+                "caption": "Are the QIMA documents signed?",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9aedf10c-1eb6-4152-9512-def8cd73f42d?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9aedf10c-1eb6-4152-9512-def8cd73f42d"
+              },
+              {
+                "caption": "Are the QIMA documents signed?",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/cd5962f3-f7f4-47a8-b42c-6b7510d371b2?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/cd5962f3-f7f4-47a8-b42c-6b7510d371b2"
+              },
+              {
+                "caption": "Are the QIMA documents signed?",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/607b6f98-8ebc-466c-975e-bff8a2672f72?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/607b6f98-8ebc-466c-975e-bff8a2672f72"
+              },
+              {
+                "caption": "Are the QIMA documents signed?",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/fba1deed-6470-4514-901b-7ddae11334d7?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/fba1deed-6470-4514-901b-7ddae11334d7"
+              },
+              {
+                "caption": "Is the factory/workshop location same as booked?",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0b0358ba-a906-4f09-98a0-7d1d7e474e54?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0b0358ba-a906-4f09-98a0-7d1d7e474e54"
+              },
+              {
+                "caption": "Inspection Room Lighting Conditions",
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/280aa3f5-70ae-4cab-ab0e-c4829978c2f2?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/280aa3f5-70ae-4cab-ab0e-c4829978c2f2"
+              }
+            ]
+          },
+          {
+            "title": "Measurements",
+            "photos": [
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/13472004-83d1-4740-94a0-d44c6598f5dc?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/13472004-83d1-4740-94a0-d44c6598f5dc"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/be6dcddf-d634-46d7-b1cb-b16a136a99d9?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/be6dcddf-d634-46d7-b1cb-b16a136a99d9"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/26fc72f8-e216-4b97-8fdb-d79b66dd7e77?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/26fc72f8-e216-4b97-8fdb-d79b66dd7e77"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a89e9d92-769e-418e-a3a0-3a191cdcec1d?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a89e9d92-769e-418e-a3a0-3a191cdcec1d"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8b1f14c2-9f22-4aeb-afe0-305779903d76?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8b1f14c2-9f22-4aeb-afe0-305779903d76"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ed6719a3-e991-45d7-a985-abf3948a929c?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ed6719a3-e991-45d7-a985-abf3948a929c"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/fefc38eb-f9ec-4677-81b6-08bf6e6c1aef?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/fefc38eb-f9ec-4677-81b6-08bf6e6c1aef"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b8a37266-f628-43c1-802c-e91950e630a1?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b8a37266-f628-43c1-802c-e91950e630a1"
+              }
+            ]
+          }
+        ],
+        "label": null
+      }
+    ],
+    "keyIndicator": {
+      "isVisible": true,
+      "aqlLevel": "product",
+      "inspectionResultSummary": {
+        "checkedCritical": "125",
+        "checkedMajor": "125",
+        "checkedMinor": "125",
+        "foundCritical": "0.0",
+        "foundMajor": "10.0",
+        "foundMinor": "8.0",
+        "maxCritical": "0",
+        "maxMajor": "7",
+        "maxMinor": "10",
+        "testResults": "Fail",
+        "workmanShipResult": "Beyond AQL",
+        "defects": [
+          {
+            "name": "Paint / ink / oil spots",
+            "foundCritical": "0.0",
+            "foundMajor": "10.0",
+            "foundMinor": "0.0",
+            "photos": [
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2af90545-c3b2-4061-bb23-7705c5ebcb00?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2af90545-c3b2-4061-bb23-7705c5ebcb00"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/77ffddb3-9eac-4efa-8130-830eccad8760?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/77ffddb3-9eac-4efa-8130-830eccad8760"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2f83dfc0-d864-44ad-ba16-02bea5b8e4b3?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2f83dfc0-d864-44ad-ba16-02bea5b8e4b3"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c84d1b34-5b56-4c6a-8f10-c5514b421768?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c84d1b34-5b56-4c6a-8f10-c5514b421768"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e54c4b14-fcc6-4a35-9a0a-80e74959a5a2?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e54c4b14-fcc6-4a35-9a0a-80e74959a5a2"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/474eb652-3f7b-44c1-9cd9-c0260bbd3313?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/474eb652-3f7b-44c1-9cd9-c0260bbd3313"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/4e08817d-82b3-4c86-b78e-7ad8566a0a88?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/4e08817d-82b3-4c86-b78e-7ad8566a0a88"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/99fbec63-2aa8-4510-bec1-4cbcf1052d67?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/99fbec63-2aa8-4510-bec1-4cbcf1052d67"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b7b840b5-b0de-4015-93b6-2d8ee370b3e5?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b7b840b5-b0de-4015-93b6-2d8ee370b3e5"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/bf1907b3-b074-492b-b572-98881ad0b528?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/bf1907b3-b074-492b-b572-98881ad0b528"
+              }
+            ]
+          },
+          {
+            "name": "Wrong color / discoloration (MIN)",
+            "foundCritical": "0.0",
+            "foundMajor": "0.0",
+            "foundMinor": "1.0",
+            "photos": [
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/920769f5-648c-44e8-9513-85cd2dc401cf?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/920769f5-648c-44e8-9513-85cd2dc401cf"
+              }
+            ]
+          },
+          {
+            "name": "Stain / streaks (MIN)",
+            "foundCritical": "0.0",
+            "foundMajor": "0.0",
+            "foundMinor": "4.0",
+            "photos": [
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6535b360-24b2-4cb5-a47f-fb9bde56e34b?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6535b360-24b2-4cb5-a47f-fb9bde56e34b"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3871bb8c-8247-4914-9dd9-4231c11d56e8?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3871bb8c-8247-4914-9dd9-4231c11d56e8"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/32472bbd-fd4b-4b2f-a645-fd59238edd12?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/32472bbd-fd4b-4b2f-a645-fd59238edd12"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3a541709-43fb-4853-bd7b-10282e719adc?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3a541709-43fb-4853-bd7b-10282e719adc"
+              }
+            ]
+          },
+          {
+            "name": "Untrimmed Thread Ends",
+            "foundCritical": "0.0",
+            "foundMajor": "0.0",
+            "foundMinor": "3.0",
+            "photos": [
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f9cb3e97-7ac6-4c5a-9ee7-56357f3b6b8a?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f9cb3e97-7ac6-4c5a-9ee7-56357f3b6b8a"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/d6718f45-c27a-49e4-b4cd-13e56d7c42e9?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/d6718f45-c27a-49e4-b4cd-13e56d7c42e9"
+              },
+              {
+                "caption": null,
+                "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3828b46d-20bd-4d77-be8c-600c29a12adb?thumbnail=S128",
+                "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3828b46d-20bd-4d77-be8c-600c29a12adb"
+              }
+            ]
+          }
+        ]
+      },
+      "productReferenceWorkmanShipResult": null,
+      "testAndSpecialRequirement": {
+        "passedTests": 15,
+        "failedTests": 1,
+        "totalTests": 62,
+        "checklists": [
+          {
+            "checklistName": "IPC - Standard Checklist",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Daily order production capacity as per factory",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Daily order production capacity as per inspector",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Expected order completion date",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Overall Product Quantity",
+                "comment": "As per the Booking Order quantity of 1,500 pcs, the Supplier offered 15 pcs (1.0%) Goods were checked complete before poly.  And received from wash 225 pieces at the finishing section.  Balance goods sent to the wash factory for washing.",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Raw Material Quantity Check",
+                "comment": "The quantity of raw materials available on-site matches the inspection bookings and purchase order requirements.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/aaf41613-b07d-4644-8a43-c11fc0d0cfdf?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/aaf41613-b07d-4644-8a43-c11fc0d0cfdf"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/513119c2-bf15-49ec-868c-ce5de2ae527b?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/513119c2-bf15-49ec-868c-ce5de2ae527b"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c11a77f3-2681-4bbd-bb0c-a0289b3de991?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c11a77f3-2681-4bbd-bb0c-a0289b3de991"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/80fbee19-5f7c-4f5a-909d-ea7dffb73a29?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/80fbee19-5f7c-4f5a-909d-ea7dffb73a29"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e1527aad-51c4-46bc-92b2-7c1542cc653e?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e1527aad-51c4-46bc-92b2-7c1542cc653e"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3d375de0-bb0d-4ebf-9f1d-cc3a43c0a40e?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3d375de0-bb0d-4ebf-9f1d-cc3a43c0a40e"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/eb2f48f8-82cf-4e52-a5cc-0891d0925b2b?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/eb2f48f8-82cf-4e52-a5cc-0891d0925b2b"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ce4d7ace-6bd0-4670-a2cd-5cfbf93359ed?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ce4d7ace-6bd0-4670-a2cd-5cfbf93359ed"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "General Storage Conditions",
+                "comment": "The storage conditions of raw materials, semi-finished, finished, and packed products in the warehouse are satisfactory.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8d83e5e4-0883-42b4-bc72-56db07ed0689?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8d83e5e4-0883-42b4-bc72-56db07ed0689"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/07513599-723c-45ff-aed4-49ac8accd7e6?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/07513599-723c-45ff-aed4-49ac8accd7e6"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0474a530-a3e6-4fdf-888a-842348ac7f1c?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0474a530-a3e6-4fdf-888a-842348ac7f1c"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9aa1a5c6-874f-402f-a063-efac21a4be07?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9aa1a5c6-874f-402f-a063-efac21a4be07"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/caa684c8-4d76-4a64-a134-464a0ac1d131?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/caa684c8-4d76-4a64-a134-464a0ac1d131"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/855d2189-35a3-4ddf-b29a-074ede24aa1c?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/855d2189-35a3-4ddf-b29a-074ede24aa1c"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ab21c07b-216e-4dc9-861f-d78a824874ad?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ab21c07b-216e-4dc9-861f-d78a824874ad"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e6ec5dce-eb88-4fba-998d-a42699c3d78b?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e6ec5dce-eb88-4fba-998d-a42699c3d78b"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Manufacturing Process",
+                "comment": "As per the booking order quantity of 1,500 pcs, the supplier offered 15 pcs (1.0%) of goods checked completely before poly. A total of 322 pcs were received from washing and are currently in the finishing section, while the remaining goods have been sent to the wash factory for processing.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a7ff3afa-03a3-4eea-9a19-2cc2a2860e89?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a7ff3afa-03a3-4eea-9a19-2cc2a2860e89"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a531a767-ab6f-4baf-b4da-17d6b6c87f1e?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a531a767-ab6f-4baf-b4da-17d6b6c87f1e"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/98d78fbd-d118-49d3-82fb-50c6257b0e3b?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/98d78fbd-d118-49d3-82fb-50c6257b0e3b"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e46b87e4-813a-4516-8db2-94358fe9d541?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e46b87e4-813a-4516-8db2-94358fe9d541"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "How many workers are dedicated to this production?",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "How many machines are used for this production?",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "IPC - Quantity & Packaging",
+            "result": "Fail",
+            "tests": [
+              {
+                "name": "Available Quantity Check: Finished&Packed&Unpacked",
+                "comment": "As per the booking order quantity of 1,500 pcs, the supplier offered 15 pcs (1.0%) of goods checked completely before poly. A total of 322 pcs were received from washing and are currently in the finishing section, while the remaining goods have been sent to the wash factory for processing.",
+                "testResult": "Fail",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9f360eb3-faf6-45b1-88d3-26d2e94942bf?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9f360eb3-faf6-45b1-88d3-26d2e94942bf"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/123d83a6-6686-40d0-a6f0-d241dc089d41?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/123d83a6-6686-40d0-a6f0-d241dc089d41"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/7be71625-54ac-41be-a304-e196ef426209?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/7be71625-54ac-41be-a304-e196ef426209"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9c5fc78e-d8b2-4db6-99e4-b7a8bf21eaca?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9c5fc78e-d8b2-4db6-99e4-b7a8bf21eaca"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f4352f4f-018e-47a3-afc3-32f308fd350c?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/f4352f4f-018e-47a3-afc3-32f308fd350c"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Available Quantity Details",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "IPC - Product Specifications - SL",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Random carton selection",
+                "comment": "There are no cartons.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ee675551-af4e-442e-bd14-382b2e62e813?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ee675551-af4e-442e-bd14-382b2e62e813"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Cartons before selection",
+                "comment": "There are no cartons.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b8c0c7bb-e5f4-4e1a-afac-3795f3e62e2d?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b8c0c7bb-e5f4-4e1a-afac-3795f3e62e2d"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Cartons after selection",
+                "comment": "There are no cartons.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2a646204-b274-4724-b0ba-618441c1c0dd?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2a646204-b274-4724-b0ba-618441c1c0dd"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Selected cartons",
+                "comment": "There are no cartons.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a0405e06-f0ba-4f5f-9711-8e9d056c15b9?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a0405e06-f0ba-4f5f-9711-8e9d056c15b9"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Outer Packing & Shipping Marks: Front & Side",
+                "comment": "Not applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Outer Packing: Assortment, Dimensions & Weight",
+                "comment": "Not applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Inner Packing & Unit Packing",
+                "comment": "Not Applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Match packing info",
+                "comment": "Not Applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Carton drop test",
+                "comment": "Not Applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Shake test info",
+                "comment": "Not Applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Product Style & Construction",
+                "comment": "The supplier did not provide PP counter samples from the client, swatch, trim card, or technical file during the inspection time.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6d995301-431d-4f41-b316-404e3130368b?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/6d995301-431d-4f41-b316-404e3130368b"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Product Color",
+                "comment": "The supplier did not provide PP counter samples from the client, swatch, trim card, or technical file during the inspection time.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/56a1eaa9-de2f-4886-a061-e5efc11cf0dc?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/56a1eaa9-de2f-4886-a061-e5efc11cf0dc"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Product Logo",
+                "comment": "No logo was found on the bulk products.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Product Labels",
+                "comment": "No label was found on the bulk products.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Approval Sample Comparison",
+                "comment": "The supplier did not provide PP counter samples from the client, swatch, trim card, or technical file during the inspection time.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "IPC - Test - General Garments",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Zipper function check",
+                "comment": "No zipper was found on the bulk products.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Needle damage check",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3ad58525-a2a1-42e9-b52d-578499fa76fc?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/3ad58525-a2a1-42e9-b52d-578499fa76fc"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Button check",
+                "comment": "No button was found on the bulk products.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Weight check",
+                "comment": "It was a knit item.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Ironing, washing, treatment check",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/1ee5212c-fa3d-4e24-bfdd-e684d3fbf1bb?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/1ee5212c-fa3d-4e24-bfdd-e684d3fbf1bb"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Pattern, stripes, grid check",
+                "comment": "Not applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Pocket / holder check",
+                "comment": "Not applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Model fitting check",
+                "comment": "The doll, model or dummy was not available in the factory during the inspection time.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Fabric weight test",
+                "comment": "No fabric weight specification was provided.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e9837317-6b61-420d-a627-7df40cc53133?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/e9837317-6b61-420d-a627-7df40cc53133"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c7e2255b-25ee-495f-bd5d-f6a58a9e5790?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/c7e2255b-25ee-495f-bd5d-f6a58a9e5790"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Hanger check",
+                "comment": "No hanger was found on the bulk product.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Pull test",
+                "comment": "No button/ small parts were found on the bulk product.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Fatigue test",
+                "comment": "Not applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Odor check",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/24df12fd-51c6-4705-976d-f7910f29a30c?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/24df12fd-51c6-4705-976d-f7910f29a30c"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Rubbing (textile) test",
+                "comment": "The product met the required standards: no color transfer greater than 4 on the grey scale after the dry test, no transfer greater than 3–4 after the wet test, and the print on the product or label remained intact without dulling or peeling.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/334cd3da-a3bb-4a5c-88aa-a312f85f5896?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/334cd3da-a3bb-4a5c-88aa-a312f85f5896"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/057db278-974f-41a6-a315-8b3d75c604cf?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/057db278-974f-41a6-a315-8b3d75c604cf"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/dc1efd3f-9aed-4cb1-81d0-736d900a5356?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/dc1efd3f-9aed-4cb1-81d0-736d900a5356"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ce3e87a2-c420-4e67-91ff-a98d4d853cdd?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ce3e87a2-c420-4e67-91ff-a98d4d853cdd"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/dab8f5c2-7a09-4860-9f52-dd4b64375393?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/dab8f5c2-7a09-4860-9f52-dd4b64375393"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/61829bd8-cbbc-454a-be50-876355f9ead0?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/61829bd8-cbbc-454a-be50-876355f9ead0"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Seam strength test",
+                "comment": "All seams are secured, no slippage and not fabric tearing.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/89608680-64ab-4dc8-94d4-535e36a622a8?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/89608680-64ab-4dc8-94d4-535e36a622a8"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Binding check",
+                "comment": "Both the binding material and the binding method conform to the specifications and the approved sample.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b81ba846-f08e-4ec8-a955-3170627e538f?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b81ba846-f08e-4ec8-a955-3170627e538f"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0073feba-199b-4a20-8670-345bc0033059?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0073feba-199b-4a20-8670-345bc0033059"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Elastic waistband stretched length",
+                "comment": "Not applicable to this product.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Elastic recovery check",
+                "comment": "Not applicable to this product.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Color specification check",
+                "comment": "The product is in the correct shade / color inside of the allowable 4-5 color shading range.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/cfb20b7c-9896-4b67-95c0-a9b5914cd605?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/cfb20b7c-9896-4b67-95c0-a9b5914cd605"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Stuffing check",
+                "comment": "Not applicable to this product.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Adhesive test",
+                "comment": "No found logo or print on the bulk product.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Metal / needle detection check",
+                "comment": "The metal detector machine was out of service.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Function test",
+                "comment": "Not applicable to this product.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Color shading check ",
+                "comment": "The deviation is within the acceptable range as per the specifications; in the absence of specific requirements, grey scale 4 is used as the acceptable limit.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8c07611c-34ae-42fd-9ee4-27906fcbac25?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8c07611c-34ae-42fd-9ee4-27906fcbac25"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0af0b6d7-1010-4157-b903-428d239ceb80?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0af0b6d7-1010-4157-b903-428d239ceb80"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Quantity and assortment check (per package)",
+                "comment": "Not applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Barcode/QR code scanning test ",
+                "comment": "The factory did not attach the labels.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Approval sample comparison",
+                "comment": "The supplier did not provide PP counter samples from the client, swatches, trim cards, or the technical file at the time of inspection.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Stitch density check",
+                "comment": "The number of stitches per inch are correct to specifications or approval sample.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/08535cf0-7dc4-4817-af11-1fe0e473f14f?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/08535cf0-7dc4-4817-af11-1fe0e473f14f"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Symmetry check",
+                "comment": "The product is symmetric on all the checkpoints.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2ba284e7-07dd-4886-8273-fcf8a35d78e7?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/2ba284e7-07dd-4886-8273-fcf8a35d78e7"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Label check",
+                "comment": "The product has no label.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "IPC - Factory Review",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Is the factory/workshop location same as booked?",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0b0358ba-a906-4f09-98a0-7d1d7e474e54?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/0b0358ba-a906-4f09-98a0-7d1d7e474e54"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Factory Cooperation, Organization and Cleanliness",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Inspection Room Lighting Conditions",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/280aa3f5-70ae-4cab-ab0e-c4829978c2f2?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/280aa3f5-70ae-4cab-ab0e-c4829978c2f2"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Tools calibration",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Mold Prevention Check",
+                "comment": "Not applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Are the QIMA documents signed?",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9aedf10c-1eb6-4152-9512-def8cd73f42d?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/9aedf10c-1eb6-4152-9512-def8cd73f42d"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/cd5962f3-f7f4-47a8-b42c-6b7510d371b2?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/cd5962f3-f7f4-47a8-b42c-6b7510d371b2"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/607b6f98-8ebc-466c-975e-bff8a2672f72?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/607b6f98-8ebc-466c-975e-bff8a2672f72"
+                  },
+                  {
+                    "caption": null,
+                    "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/fba1deed-6470-4514-901b-7ddae11334d7?thumbnail=S128",
+                    "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/fba1deed-6470-4514-901b-7ddae11334d7"
+                  }
+                ],
+                "attachments": []
+              }
+            ]
+          }
+        ]
+      },
+      "productMeasurementAQLResult": null,
+      "productMeasurementResults": [
+        {
+          "result": "Fail",
+          "resultCalculationMethod": "SAMPLES_OUT_OF_TOLERANCE",
+          "sampleSize": 32,
+          "samplesOutOfTolerance": 15,
+          "pointsOfMeasurement": 320,
+          "pointsOfMeasurementOutOfTolerance": 23,
+          "spotlightPhotos": [
+            {
+              "caption": null,
+              "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/13472004-83d1-4740-94a0-d44c6598f5dc?thumbnail=S128",
+              "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/13472004-83d1-4740-94a0-d44c6598f5dc"
+            }
+          ],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/be6dcddf-d634-46d7-b1cb-b16a136a99d9?thumbnail=S128",
+              "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/be6dcddf-d634-46d7-b1cb-b16a136a99d9"
+            },
+            {
+              "caption": null,
+              "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/26fc72f8-e216-4b97-8fdb-d79b66dd7e77?thumbnail=S128",
+              "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/26fc72f8-e216-4b97-8fdb-d79b66dd7e77"
+            },
+            {
+              "caption": null,
+              "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a89e9d92-769e-418e-a3a0-3a191cdcec1d?thumbnail=S128",
+              "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/a89e9d92-769e-418e-a3a0-3a191cdcec1d"
+            },
+            {
+              "caption": null,
+              "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8b1f14c2-9f22-4aeb-afe0-305779903d76?thumbnail=S128",
+              "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/8b1f14c2-9f22-4aeb-afe0-305779903d76"
+            },
+            {
+              "caption": null,
+              "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ed6719a3-e991-45d7-a985-abf3948a929c?thumbnail=S128",
+              "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/ed6719a3-e991-45d7-a985-abf3948a929c"
+            },
+            {
+              "caption": null,
+              "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/fefc38eb-f9ec-4677-81b6-08bf6e6c1aef?thumbnail=S128",
+              "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/fefc38eb-f9ec-4677-81b6-08bf6e6c1aef"
+            },
+            {
+              "caption": null,
+              "thumbnailUrl": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b8a37266-f628-43c1-802c-e91950e630a1?thumbnail=S128",
+              "url": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/b8a37266-f628-43c1-802c-e91950e630a1"
+            }
+          ],
+          "comment": "A total of 32 pcs were measured, and 15 pcs were found out of tolerance. The deviations ranged from +1.75 cm to -1 cm, depending on the measurement point. Please refer to the measurement chart for detailed results.",
+          "attachments": [
+            {
+              "fileName": "Measurement Chart -Inc-.xlsx",
+              "fileSize": 0,
+              "fileUrl": "https://app.qimaone.com/api/inspection/documents/dbead5e9-0ea9-4bdf-b800-c4c4c8a8366474c0561b-b50f-4a19-a375-22a35996a759d09d5799-6a00-4cf0-a36c-8cbb17384da302b5c0a5-5ec2-4728-a2fa-35f0322546c49a3c1d28-0ac7-430d-b2c5-63479ef186a6",
+              "createTime": null
+            }
+          ]
+        }
+      ]
+    },
+    "inspectionDetails": {
+      "generalInfo": [
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SUPPLIER",
+          "value": "Long-Sleeve Shirt Clothing Corporation Ltd."
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.INSPECTION_DATE",
+          "value": "1761177600000"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.INSPECTOR",
+          "value": "Flore Kermel"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
+          "type": "location",
+          "value": "Ho Chi Minh"
+        }
+      ],
+      "serviceDescription": "Initial Production Check",
+      "serviceType": "IPC"
+    },
+    "productDetails": {
+      "generalInfo": [
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SKU",
+          "value": "Olive Green Long Sleeve Tee"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SHIPMENT_DATE",
+          "value": "1761782400000"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.QUANTITY",
+          "value": "1500 Pcs"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.PRODUCED_QUANTITY",
+          "value": "1500 Pcs"
+        }
+      ],
+      "mainPicture": "https://app.qimaone.com/api/brands/1058/inspections/1500298/images/329e6e5e-a59b-4949-ab9e-e39edc210ac4",
+      "poNumber": "LT-CS-0061",
+      "productName": "LS STURDY TEE",
+      "prodQuantityUnit": "Pcs"
+    },
+    "specialIP": null,
+    "attachments": null,
+    "showSummary": true,
+    "aiSummaryStatus": 1,
+    "userId": "52E1F463803140AA9FFFB263CC863B1D",
+    "disableSummaryReportButton": false
+  }
+}

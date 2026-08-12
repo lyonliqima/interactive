@@ -1,0 +1,1654 @@
+{
+  "message": "OK",
+  "content": {
+    "reportId": "F466EB85806E486CB71DA6E74473E460",
+    "reportNumber": "740-DHJ21022DY",
+    "orderId": "EBF23665681F4F83B940A1DE8D949A69",
+    "orderNumber": "Q2619570234",
+    "downloadUrlOfPhotos": "mock-data/local-photos.zip",
+    "downloadUrlOfReport": "mock-data/local-report.pdf",
+    "reportMetadata": {
+      "generalInfo": [
+        {
+          "label": "REPORTS.VIEW_REPORT.INSPECTION_DATE",
+          "value": "1786233600000"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.PO_NO",
+          "value": "581935"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SKU",
+          "value": "0410030021.30"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.QUANTITY",
+          "value": "8000 Meters"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.PRODUCED_QUANTITY",
+          "value": "8329 Meters"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
+          "type": "location",
+          "value": "Jiangyin"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SUPPLIER",
+          "value": "Shanghai Hongen Woolen Textile Co., Ltd."
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.FACTORY",
+          "value": "Shanghai Hongen Woolen Textile Co., Ltd."
+        }
+      ]
+    },
+    "overallResult": {
+      "isMissed": false,
+      "overallResult": "Fail"
+    },
+    "assessmentResults": [
+      {
+        "color": "#737373",
+        "label": "Workmanship",
+        "result": "N/A"
+      },
+      {
+        "color": "#E5353D",
+        "label": "Checklists & tests",
+        "result": "Failed"
+      }
+    ],
+    "clientRating": null,
+    "clientRatingFeedback": null,
+    "reportDecision": {
+      "decidedBy": null,
+      "decision": "Pending",
+      "decisionComments": null,
+      "decisionReasons": null,
+      "decisionTime": null,
+      "productId": "F466EB85806E486CB71DA6E74473E460",
+      "productReference": [
+        {
+          "decision": "Pending",
+          "productId": "F466EB85806E486CB71DA6E74473E460",
+          "referenceId": "F466EB85806E486CB71DA6E74473E460",
+          "referencePoNumber": "581935",
+          "referenceQuantity": 8000,
+          "referenceSkuNumber": "0410030021.30",
+          "decidedBy": null,
+          "decisionComments": null,
+          "decisionReasons": null,
+          "decisionTime": null
+        }
+      ]
+    },
+    "overview": {
+      "overviewDetail": {
+        "generalInfo": [
+          {
+            "label": "REPORTS.VIEW_REPORT.PRODUCT",
+            "value": "740-DHJ21022DY"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.PRODUCT_REF_SKU",
+            "value": "0410030021.30"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.PO_NO",
+            "value": "581935"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
+            "type": "location",
+            "value": "Jiangyin"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.INSPECTOR",
+            "value": "QIMA Inspector"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.INSPECTOR_REMARK",
+            "value": "1. Total 8329.6 m / 138 rolls - 104.12% of the booking quantity were finished and packed.\n2. Approval sample without client's signature was provided by factory during inspection.\n3. No calibration label was found on fabric weight scale and meter reader.\n4. Only factory's pen marked label was found on fabric rolls, the supplier declared they would paste correct roll labels before shipment.\n5. No round color sticker was found on each dye lot.\n6. Fabric total width (150cm) and fabric weight (266.67gsm) specifications were provided by factory on site.\n7. No Roll label on all rolls during inspection, the supplier declared they would paste correct roll labels before shipment"
+          }
+        ],
+        "mainPicture": "assets/singlefile-photos-v2.1-4/34f1d920-cdf5-46d1-80fd-18923756ef0f.jpg"
+      }
+    },
+    "photos": [
+      {
+        "label": "",
+        "categories": [
+          {
+            "title": "Checklists & tests",
+            "photos": [
+              {
+                "caption": "Approval Sample",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/34f1d920-cdf5-46d1-80fd-18923756ef0f.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/34f1d920-cdf5-46d1-80fd-18923756ef0f.jpg"
+              },
+              {
+                "caption": "Fabric Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/5448e983-1433-4559-babd-4942a42d075e.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/5448e983-1433-4559-babd-4942a42d075e.jpg"
+              },
+              {
+                "caption": "Comparison with approval sample (left)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7d7d30af-0e0e-4642-b6a4-9e326a7e9376.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/7d7d30af-0e0e-4642-b6a4-9e326a7e9376.jpg"
+              },
+              {
+                "caption": "Total Width",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/afcfd0d8-2259-46bb-b3f5-d93140424f6e.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/afcfd0d8-2259-46bb-b3f5-d93140424f6e.jpg"
+              },
+              {
+                "caption": "Total Width",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/2b51acc4-c50e-415a-968e-266a83df3725.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/2b51acc4-c50e-415a-968e-266a83df3725.jpg"
+              },
+              {
+                "caption": "Roll length",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/a5b87cbd-e38a-442a-8734-8d1ae8f30fac.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/a5b87cbd-e38a-442a-8734-8d1ae8f30fac.jpg"
+              },
+              {
+                "caption": "Roll length",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/276e13ef-a7ec-4f5d-b920-adcd00d497c7.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/276e13ef-a7ec-4f5d-b920-adcd00d497c7.jpg"
+              },
+              {
+                "caption": "Total Number of Fabric Rolls",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/13f4f041-c36b-4096-bee3-2a755dc6dc8f.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/13f4f041-c36b-4096-bee3-2a755dc6dc8f.jpg"
+              },
+              {
+                "caption": "Total Number of Fabric Rolls",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/9e4653e4-a7f7-41bd-a745-c7af8cba40e8.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/9e4653e4-a7f7-41bd-a745-c7af8cba40e8.jpg"
+              },
+              {
+                "caption": "Total Number of Fabric Rolls",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/c48641b9-8cb0-438e-a12f-ff1698f2ff8c.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/c48641b9-8cb0-438e-a12f-ff1698f2ff8c.jpg"
+              },
+              {
+                "caption": "Total Number of Fabric Rolls",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/8c1ae629-98b3-45c6-89d6-838d5b1679c2.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/8c1ae629-98b3-45c6-89d6-838d5b1679c2.jpg"
+              },
+              {
+                "caption": "Total Number of Fabric Rolls",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/8524d147-ff05-49e0-95bb-ffed3573c568.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/8524d147-ff05-49e0-95bb-ffed3573c568.jpg"
+              },
+              {
+                "caption": "Total Number of Fabric Rolls",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/3c8ec5d9-0d03-4e2f-b3cc-4b45f974056f.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/3c8ec5d9-0d03-4e2f-b3cc-4b45f974056f.jpg"
+              },
+              {
+                "caption": "Total Number of Fabric Rolls",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/fd9ab253-ee27-400c-bef0-55d1bc879b1a.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/fd9ab253-ee27-400c-bef0-55d1bc879b1a.jpg"
+              },
+              {
+                "caption": "Total Number of Fabric Rolls",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/8b470455-7fbb-49bd-8020-ae4fe5d1596b.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/8b470455-7fbb-49bd-8020-ae4fe5d1596b.jpg"
+              },
+              {
+                "caption": "Roll Labeling",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/fcbbcde9-0f94-4f5c-b962-9899beda8a0e.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/fcbbcde9-0f94-4f5c-b962-9899beda8a0e.jpg"
+              },
+              {
+                "caption": "Roll Labeling",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/103f51c5-4198-4e44-8351-5d66e3dadeca.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/103f51c5-4198-4e44-8351-5d66e3dadeca.jpg"
+              },
+              {
+                "caption": "Rolls Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/829af327-21b0-49bc-8f0d-406b1c39188e.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/829af327-21b0-49bc-8f0d-406b1c39188e.jpg"
+              },
+              {
+                "caption": "Rolls Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7df38a39-6d41-442d-a87a-d47bd9dbfc4f.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/7df38a39-6d41-442d-a87a-d47bd9dbfc4f.jpg"
+              },
+              {
+                "caption": "Rolls Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/3229cfe7-9519-4996-b078-344a69966926.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/3229cfe7-9519-4996-b078-344a69966926.jpg"
+              },
+              {
+                "caption": "Rolls Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/29833617-0dfb-4ea2-8df9-d58d9b8f5f0e.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/29833617-0dfb-4ea2-8df9-d58d9b8f5f0e.jpg"
+              },
+              {
+                "caption": "Rolls Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/174749f4-aec5-4d2a-ac78-e21355e1492f.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/174749f4-aec5-4d2a-ac78-e21355e1492f.jpg"
+              },
+              {
+                "caption": "Rolls Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/c696f83f-c4c0-463f-9cdc-538395bf4dad.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/c696f83f-c4c0-463f-9cdc-538395bf4dad.jpg"
+              },
+              {
+                "caption": "Tube Quality",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/42524110-fae0-45b0-8d3a-2fbbb5fde20a.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/42524110-fae0-45b0-8d3a-2fbbb5fde20a.jpg"
+              },
+              {
+                "caption": "Mold prevention check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7de66b95-221b-40cc-a32f-a2f74e1969db.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/7de66b95-221b-40cc-a32f-a2f74e1969db.jpg"
+              },
+              {
+                "caption": "Odor check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/51f5a654-331a-4e17-93c8-c6653a955196.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/51f5a654-331a-4e17-93c8-c6653a955196.jpg"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/fd56c33c-1f7e-4a00-b339-52e6a700c2fe.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/fd56c33c-1f7e-4a00-b339-52e6a700c2fe.jpg"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7767826c-1ae1-4c07-82f8-13c1720a31f3.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/7767826c-1ae1-4c07-82f8-13c1720a31f3.jpg"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/2e6a2506-80bc-4f55-b808-533c5c09f3be.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/2e6a2506-80bc-4f55-b808-533c5c09f3be.jpg"
+              },
+              {
+                "caption": "Rubbing (textile) test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/b0752cdd-4bc5-486c-b1a7-307b1da4c9d2.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/b0752cdd-4bc5-486c-b1a7-307b1da4c9d2.jpg"
+              },
+              {
+                "caption": "Color specification check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/a53a8699-bfdb-46da-bad7-e68d934cf32c.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/a53a8699-bfdb-46da-bad7-e68d934cf32c.jpg"
+              },
+              {
+                "caption": "Color specification check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/ffb99f91-2b8e-4a0a-b030-98164bd7c1dd.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/ffb99f91-2b8e-4a0a-b030-98164bd7c1dd.jpg"
+              },
+              {
+                "caption": "Color shading check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/cff6155f-a558-42b9-9f9a-f5ed8d85d5c7.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/cff6155f-a558-42b9-9f9a-f5ed8d85d5c7.jpg"
+              },
+              {
+                "caption": "Color shading check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/bde0b7b2-75d6-405f-a345-b565b8533926.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/bde0b7b2-75d6-405f-a345-b565b8533926.jpg"
+              },
+              {
+                "caption": "Color shading check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/6f81292c-fc45-4d18-89d6-724e8fbcdb0f.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/6f81292c-fc45-4d18-89d6-724e8fbcdb0f.jpg"
+              },
+              {
+                "caption": "Color shading check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-4/f160f515-cb94-448e-80d2-4ea26ff6b60a.jpg",
+                "url": "assets/singlefile-photos-v2.1-4/f160f515-cb94-448e-80d2-4ea26ff6b60a.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "keyIndicator": {
+      "inspectionResultSummary": {
+        "checkedCritical": "0",
+        "checkedMajor": "0",
+        "checkedMinor": "0",
+        "foundCritical": "",
+        "foundMajor": "",
+        "foundMinor": "",
+        "maxCritical": "0",
+        "maxMajor": "0",
+        "maxMinor": "0",
+        "measurementAqlResult": "N/A",
+        "measurementChecked": "0",
+        "measurementFound": "0",
+        "testResults": "Failed",
+        "workmanShipResult": "N/A",
+        "defects": []
+      },
+      "testAndSpecialRequirement": {
+        "passedTests": "67",
+        "failedTests": "2",
+        "totalTests": "69",
+        "checklists": [
+          {
+            "checklistName": "Mango - Fabric - Specifications",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Type of Factory",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Type of Fabric",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Manufacturing Process",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Approval Sample",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Approval Sample",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/34f1d920-cdf5-46d1-80fd-18923756ef0f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/34f1d920-cdf5-46d1-80fd-18923756ef0f.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Fabric Composition",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Fabric Construction",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Fabric Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/5448e983-1433-4559-babd-4942a42d075e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/5448e983-1433-4559-babd-4942a42d075e.jpg"
+                  },
+                  {
+                    "caption": "Comparison with approval sample (left)",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7d7d30af-0e0e-4642-b6a4-9e326a7e9376.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/7d7d30af-0e0e-4642-b6a4-9e326a7e9376.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Fabric Relaxation Time",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Total Width",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Total Width",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/afcfd0d8-2259-46bb-b3f5-d93140424f6e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/afcfd0d8-2259-46bb-b3f5-d93140424f6e.jpg"
+                  },
+                  {
+                    "caption": "Total Width",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/2b51acc4-c50e-415a-968e-266a83df3725.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/2b51acc4-c50e-415a-968e-266a83df3725.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Usable Width",
+                "comment": "No need for usable width",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Roll length",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Roll length",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/a5b87cbd-e38a-442a-8734-8d1ae8f30fac.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/a5b87cbd-e38a-442a-8734-8d1ae8f30fac.jpg"
+                  },
+                  {
+                    "caption": "Roll length",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/276e13ef-a7ec-4f5d-b920-adcd00d497c7.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/276e13ef-a7ec-4f5d-b920-adcd00d497c7.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Roll Weight",
+                "comment": "Not knitted fabric",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "Mango - Fabric - Quantity & Packaging",
+            "result": "Fail",
+            "tests": [
+              {
+                "name": "Available Quantity Check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Total Number of Fabric Rolls",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Total Number of Fabric Rolls",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/13f4f041-c36b-4096-bee3-2a755dc6dc8f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/13f4f041-c36b-4096-bee3-2a755dc6dc8f.jpg"
+                  },
+                  {
+                    "caption": "Total Number of Fabric Rolls",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/9e4653e4-a7f7-41bd-a745-c7af8cba40e8.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/9e4653e4-a7f7-41bd-a745-c7af8cba40e8.jpg"
+                  },
+                  {
+                    "caption": "Total Number of Fabric Rolls",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/c48641b9-8cb0-438e-a12f-ff1698f2ff8c.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/c48641b9-8cb0-438e-a12f-ff1698f2ff8c.jpg"
+                  },
+                  {
+                    "caption": "Total Number of Fabric Rolls",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/8c1ae629-98b3-45c6-89d6-838d5b1679c2.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/8c1ae629-98b3-45c6-89d6-838d5b1679c2.jpg"
+                  },
+                  {
+                    "caption": "Total Number of Fabric Rolls",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/8524d147-ff05-49e0-95bb-ffed3573c568.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/8524d147-ff05-49e0-95bb-ffed3573c568.jpg"
+                  },
+                  {
+                    "caption": "Total Number of Fabric Rolls",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/3c8ec5d9-0d03-4e2f-b3cc-4b45f974056f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/3c8ec5d9-0d03-4e2f-b3cc-4b45f974056f.jpg"
+                  },
+                  {
+                    "caption": "Total Number of Fabric Rolls",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/fd9ab253-ee27-400c-bef0-55d1bc879b1a.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/fd9ab253-ee27-400c-bef0-55d1bc879b1a.jpg"
+                  },
+                  {
+                    "caption": "Total Number of Fabric Rolls",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/8b470455-7fbb-49bd-8020-ae4fe5d1596b.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/8b470455-7fbb-49bd-8020-ae4fe5d1596b.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Available Quantity Details",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Packing List",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Dye Lot Information",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Roll Labeling",
+                "comment": "Only hand written mark was found on fabric rolls, the supplier declared they would paste correct roll labels before shipment",
+                "testResult": "Fail",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Roll Labeling",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/fcbbcde9-0f94-4f5c-b962-9899beda8a0e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/fcbbcde9-0f94-4f5c-b962-9899beda8a0e.jpg"
+                  },
+                  {
+                    "caption": "Roll Labeling",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/103f51c5-4198-4e44-8351-5d66e3dadeca.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/103f51c5-4198-4e44-8351-5d66e3dadeca.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Rolls Packing",
+                "comment": "No round color sticker was found on each dye lot",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Rolls Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/829af327-21b0-49bc-8f0d-406b1c39188e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/829af327-21b0-49bc-8f0d-406b1c39188e.jpg"
+                  },
+                  {
+                    "caption": "Rolls Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7df38a39-6d41-442d-a87a-d47bd9dbfc4f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/7df38a39-6d41-442d-a87a-d47bd9dbfc4f.jpg"
+                  },
+                  {
+                    "caption": "Rolls Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/3229cfe7-9519-4996-b078-344a69966926.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/3229cfe7-9519-4996-b078-344a69966926.jpg"
+                  },
+                  {
+                    "caption": "Rolls Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/29833617-0dfb-4ea2-8df9-d58d9b8f5f0e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/29833617-0dfb-4ea2-8df9-d58d9b8f5f0e.jpg"
+                  },
+                  {
+                    "caption": "Rolls Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/174749f4-aec5-4d2a-ac78-e21355e1492f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/174749f4-aec5-4d2a-ac78-e21355e1492f.jpg"
+                  },
+                  {
+                    "caption": "Rolls Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/c696f83f-c4c0-463f-9cdc-538395bf4dad.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/c696f83f-c4c0-463f-9cdc-538395bf4dad.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Tube Quality",
+                "comment": "No detailed specification was available for comparison",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Tube Quality",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/42524110-fae0-45b0-8d3a-2fbbb5fde20a.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/42524110-fae0-45b0-8d3a-2fbbb5fde20a.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Roll Weight",
+                "comment": "Not knitted fabric",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "Mango - Fabric - Test Checklist",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Inspection Report",
+                "comment": "No inspection report was provided",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Supplier Defect Marking",
+                "comment": "Not all defects / 4-points defect marking out on the inspected rolls, some defects were missing marking out",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Does the supplier discount defects (check packing",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Mold prevention check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Mold prevention check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7de66b95-221b-40cc-a32f-a2f74e1969db.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/7de66b95-221b-40cc-a32f-a2f74e1969db.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Moisture Check (For wool fabric only)",
+                "comment": "No tool was available for moisture check",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Odor check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Odor check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/51f5a654-331a-4e17-93c8-c6653a955196.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/51f5a654-331a-4e17-93c8-c6653a955196.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Rubbing (textile) test",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Rubbing (textile) test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/fd56c33c-1f7e-4a00-b339-52e6a700c2fe.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/fd56c33c-1f7e-4a00-b339-52e6a700c2fe.jpg"
+                  },
+                  {
+                    "caption": "Rubbing (textile) test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7767826c-1ae1-4c07-82f8-13c1720a31f3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/7767826c-1ae1-4c07-82f8-13c1720a31f3.jpg"
+                  },
+                  {
+                    "caption": "Rubbing (textile) test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/2e6a2506-80bc-4f55-b808-533c5c09f3be.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/2e6a2506-80bc-4f55-b808-533c5c09f3be.jpg"
+                  },
+                  {
+                    "caption": "Rubbing (textile) test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/b0752cdd-4bc5-486c-b1a7-307b1da4c9d2.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/b0752cdd-4bc5-486c-b1a7-307b1da4c9d2.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Color specification check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Color specification check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/a53a8699-bfdb-46da-bad7-e68d934cf32c.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/a53a8699-bfdb-46da-bad7-e68d934cf32c.jpg"
+                  },
+                  {
+                    "caption": "Color specification check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/ffb99f91-2b8e-4a0a-b030-98164bd7c1dd.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/ffb99f91-2b8e-4a0a-b030-98164bd7c1dd.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Color shading check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Color shading check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/cff6155f-a558-42b9-9f9a-f5ed8d85d5c7.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/cff6155f-a558-42b9-9f9a-f5ed8d85d5c7.jpg"
+                  },
+                  {
+                    "caption": "Color shading check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/bde0b7b2-75d6-405f-a345-b565b8533926.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/bde0b7b2-75d6-405f-a345-b565b8533926.jpg"
+                  },
+                  {
+                    "caption": "Color shading check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/6f81292c-fc45-4d18-89d6-724e8fbcdb0f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/6f81292c-fc45-4d18-89d6-724e8fbcdb0f.jpg"
+                  },
+                  {
+                    "caption": "Color shading check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/f160f515-cb94-448e-80d2-4ea26ff6b60a.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/f160f515-cb94-448e-80d2-4ea26ff6b60a.jpg"
+                  },
+                  {
+                    "caption": "Color shading check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/cca0a59d119d129c9312216b8fc54de1.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/cca0a59d119d129c9312216b8fc54de1.jpg"
+                  },
+                  {
+                    "caption": "Color shading check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/b5dcdeac404692d122a4417721309583.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/b5dcdeac404692d122a4417721309583.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Pattern Regularity Check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Pattern Regularity Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/19c22c11436197f327deb97c963ba6f2.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/19c22c11436197f327deb97c963ba6f2.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Surface feel test",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Surface feel test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/74728b838ddc35be99fe11993005ec83.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/74728b838ddc35be99fe11993005ec83.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Bowing and skewing test",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Bowing and skewing test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/ce69ca45d97ecbccda9b0fbdadc4df3d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/ce69ca45d97ecbccda9b0fbdadc4df3d.jpg"
+                  },
+                  {
+                    "caption": "Bowing and skewing test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/d04e43fc57af6b46c58c5098c1048c4a.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/d04e43fc57af6b46c58c5098c1048c4a.jpg"
+                  }
+                ],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "MANGO - Fabric - Calibration Check",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Tension adjustment roller",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Tension adjustment roller",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/aaa014d86d39fd7883c21c59a694a57b.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/aaa014d86d39fd7883c21c59a694a57b.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Machine speed",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Machine speed",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/a1257c1cdc43adb782a3106955d95d21.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/a1257c1cdc43adb782a3106955d95d21.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Meter reader",
+                "comment": "1. No calibration recorder of the meter reader was provided by the factory 2. Inspector calibrated the meter reader with paper tape during inspection",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Meter reader",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/e92bf5e3b6fc585937a691d1a0f27160.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/e92bf5e3b6fc585937a691d1a0f27160.jpg"
+                  },
+                  {
+                    "caption": "Meter reader",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/8aab1623ebcd29b3a077aff2b3901691.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/8aab1623ebcd29b3a077aff2b3901691.jpg"
+                  },
+                  {
+                    "caption": "Meter reader",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/8af43dc5c18294b6b7c5594ac61fa751.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/8af43dc5c18294b6b7c5594ac61fa751.jpg"
+                  },
+                  {
+                    "caption": "Meter reader",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/15eed02bf10034959d8959002e0d148b.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/15eed02bf10034959d8959002e0d148b.jpg"
+                  },
+                  {
+                    "caption": "Meter reader",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/e142ce855b850bfb6cb118765e53ba99.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/e142ce855b850bfb6cb118765e53ba99.jpg"
+                  },
+                  {
+                    "caption": "Meter reader",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/2de31421899189ad3c6adfed1e08ec9d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/2de31421899189ad3c6adfed1e08ec9d.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Lighting",
+                "comment": "D65",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Lighting",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/12a519787d337b2a8c6dee1214969f57.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/12a519787d337b2a8c6dee1214969f57.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Roll Weight Calibration Label",
+                "comment": "Roll weight not checked (not knitted fabric) & no suitable weight scale was available for the roll weight check",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Fabric Weight Calibration Label",
+                "comment": "No calibration label on fabric weight scale",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Fabric Weight Calibration Label",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/109ed83c7982ee352eef879be6f48999.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/109ed83c7982ee352eef879be6f48999.jpg"
+                  },
+                  {
+                    "caption": "Fabric Weight Calibration Label",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/4ac49ddb92e4acda861fb6d2fbf1d79a.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/4ac49ddb92e4acda861fb6d2fbf1d79a.jpg"
+                  },
+                  {
+                    "caption": "Fabric Weight Calibration Label",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/d080e027e9a30fde50fd4ce087c9141d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/d080e027e9a30fde50fd4ce087c9141d.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Machine's Condition",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Machine's Condition",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/b8d23b36d54124a54012a1cc0a09dce4.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/b8d23b36d54124a54012a1cc0a09dce4.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Machine Purchase Date",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Machine Purchase Date",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/13a4563358e40b9245534c90c07fcb3b.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/13a4563358e40b9245534c90c07fcb3b.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Table/Machine Inspection",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "Mango - Fabric - Inspection Standards",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Inspection Standard",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Sampling Level",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Max Accept Penalty Per Shipment",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Max Accept Penalty Per Roll",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "Mango - Fabric - Visual Check",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Visual Check Result - Entire Shipment",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Average Penalty per Shipment",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Average 1-point defect",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Sampling Quantity",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Number of Rolls Inspected",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Selected Lot-Roll Numbers",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Shipment Data Summary",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Shipment Data Summary",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/2ff98bc754df90d5cfff4045d1f9d3b3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/2ff98bc754df90d5cfff4045d1f9d3b3.jpg"
+                  },
+                  {
+                    "caption": "Shipment Data Summary",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/9afa2877c3aefaabd798f685f693a684.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/9afa2877c3aefaabd798f685f693a684.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Defect Pictures",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "F - Filling bar - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/206d53909586871e32e8a6e113c38f77.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/206d53909586871e32e8a6e113c38f77.jpg"
+                  },
+                  {
+                    "caption": "C - Crease",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/e7b49675cf39ace99d72918336548568.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/e7b49675cf39ace99d72918336548568.jpg"
+                  },
+                  {
+                    "caption": "F - Filling bar - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/0ce21f86531a1098607e6a662804c062.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/0ce21f86531a1098607e6a662804c062.jpg"
+                  },
+                  {
+                    "caption": "F - Filling bar - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/b11e9ab5a6cce8127be4f6b2205b79e3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/b11e9ab5a6cce8127be4f6b2205b79e3.jpg"
+                  },
+                  {
+                    "caption": "F - Filling bar - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/a6baecabd2bcf2c68e9ca28b05905adc.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/a6baecabd2bcf2c68e9ca28b05905adc.jpg"
+                  },
+                  {
+                    "caption": "F - Filling bar - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/ad863b3516da48fac42026be1a39f3bc.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/ad863b3516da48fac42026be1a39f3bc.jpg"
+                  },
+                  {
+                    "caption": "F - Filling bar - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/3bf280366445f908c59d6a23fad7aec0.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/3bf280366445f908c59d6a23fad7aec0.jpg"
+                  },
+                  {
+                    "caption": "F - Filling bar - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/f88f35af12de7b55feeaa53a3747ef92.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/f88f35af12de7b55feeaa53a3747ef92.jpg"
+                  },
+                  {
+                    "caption": "F - Filling bar - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/b2db6508a666cec9890c5b103e7fba35.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/b2db6508a666cec9890c5b103e7fba35.jpg"
+                  },
+                  {
+                    "caption": "G - Hole - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/d97ae973db61f2603ca2244ed1541b9a.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/d97ae973db61f2603ca2244ed1541b9a.jpg"
+                  },
+                  {
+                    "caption": "G - Hole - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/2ccbc780d8b6db0137ac7069f4146d36.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/2ccbc780d8b6db0137ac7069f4146d36.jpg"
+                  },
+                  {
+                    "caption": "G - Hole - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/6376f5e032be2f85478c840ec2d44891.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/6376f5e032be2f85478c840ec2d44891.jpg"
+                  },
+                  {
+                    "caption": "G - Hole - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/c93f69d41cbc7444c6043533dc8efd5d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/c93f69d41cbc7444c6043533dc8efd5d.jpg"
+                  },
+                  {
+                    "caption": "G - Hole - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/1eb87a6e6ff9a470619b4cde156cb237.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/1eb87a6e6ff9a470619b4cde156cb237.jpg"
+                  },
+                  {
+                    "caption": "G - Hole - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/d8aef421c4816b4a17bf56e3d5f59a29.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/d8aef421c4816b4a17bf56e3d5f59a29.jpg"
+                  },
+                  {
+                    "caption": "G - Hole - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/5dd7b6ac078d58fcebfd4e2e9de894ea.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/5dd7b6ac078d58fcebfd4e2e9de894ea.jpg"
+                  },
+                  {
+                    "caption": "G - Hole - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/254babb6cf8ec44844ab34d7348c8ef4.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/254babb6cf8ec44844ab34d7348c8ef4.jpg"
+                  },
+                  {
+                    "caption": "K - Knots",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/0a1e2539e3414482956bdca028ce52c2.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/0a1e2539e3414482956bdca028ce52c2.jpg"
+                  },
+                  {
+                    "caption": "K - Knots",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/d21f3c75beb5e0d75fcd1dd0cf930447.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/d21f3c75beb5e0d75fcd1dd0cf930447.jpg"
+                  },
+                  {
+                    "caption": "K - Knots",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/86874c63af5b3cad14164e2bf68fb905.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/86874c63af5b3cad14164e2bf68fb905.jpg"
+                  },
+                  {
+                    "caption": "K - Knots",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/1502828682dedd3bbe08817c45ef9456.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/1502828682dedd3bbe08817c45ef9456.jpg"
+                  },
+                  {
+                    "caption": "J - Splice joint - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7c840dd60db660d91dc6962915940f57.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/7c840dd60db660d91dc6962915940f57.jpg"
+                  },
+                  {
+                    "caption": "J - Splice joint - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/d5804929df0b3b11a757c843d34fd83f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/d5804929df0b3b11a757c843d34fd83f.jpg"
+                  },
+                  {
+                    "caption": "R2 - Selvage broken - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/3fdf811532a6b1aa90b84377eabb8cb7.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/3fdf811532a6b1aa90b84377eabb8cb7.jpg"
+                  },
+                  {
+                    "caption": "R2 - Selvage broken - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/b985ae3df594de17511388af61b33e6a.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/b985ae3df594de17511388af61b33e6a.jpg"
+                  },
+                  {
+                    "caption": "R2 - Selvage broken",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/a792c301a46068ae6b0a0e8c362ca794.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/a792c301a46068ae6b0a0e8c362ca794.jpg"
+                  },
+                  {
+                    "caption": "R2 - Selvage broken",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/90d6cae0566a7d15ee9023e51c054519.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/90d6cae0566a7d15ee9023e51c054519.jpg"
+                  },
+                  {
+                    "caption": "R2 - Selvage broken",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7a501aa51ee89c4677c4125e6696bf3f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/7a501aa51ee89c4677c4125e6696bf3f.jpg"
+                  },
+                  {
+                    "caption": "R2 - Selvage broken",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/bd2f17e9c0de6b4f34961f2ccdb0cad4.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/bd2f17e9c0de6b4f34961f2ccdb0cad4.jpg"
+                  },
+                  {
+                    "caption": "U1 - Yarn broken - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/c1ff5669625ff93ae8af206d4e2c3536.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/c1ff5669625ff93ae8af206d4e2c3536.jpg"
+                  },
+                  {
+                    "caption": "U1 - Yarn broken - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/e87a0feb51cfc16fb9feefbf568fd775.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/e87a0feb51cfc16fb9feefbf568fd775.jpg"
+                  },
+                  {
+                    "caption": "U1 - Yarn broken - Zoom out view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/73ed7852ccede3aa48063b21aef435fe.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/73ed7852ccede3aa48063b21aef435fe.jpg"
+                  },
+                  {
+                    "caption": "U1 - Yarn broken - Zoom in view",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/74dd567b8cd98fc0f0675d01ff31c415.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/74dd567b8cd98fc0f0675d01ff31c415.jpg"
+                  },
+                  {
+                    "caption": "U1 - Yarn broken",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/afe9c9f14191d66087f71c24435676e3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/afe9c9f14191d66087f71c24435676e3.jpg"
+                  },
+                  {
+                    "caption": "U1 - Yarn broken",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/d9fed061d7f43edccd612a3ccde9f6b3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/d9fed061d7f43edccd612a3ccde9f6b3.jpg"
+                  },
+                  {
+                    "caption": "U4 - Yarn foreign",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/95ccf3ce9c27e1d5c24b99efef91a44e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/95ccf3ce9c27e1d5c24b99efef91a44e.jpg"
+                  },
+                  {
+                    "caption": "U4 - Yarn foreign",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/60a361ae09dde0021d0e548b3a537b6b.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/60a361ae09dde0021d0e548b3a537b6b.jpg"
+                  },
+                  {
+                    "caption": "U5 - Yarn pulled",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/a2d06932c4c24302c3b96ec0c98b1dab.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/a2d06932c4c24302c3b96ec0c98b1dab.jpg"
+                  },
+                  {
+                    "caption": "U5 - Yarn pulled",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/5548d28b3b96a1ec1651aa08b777baec.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/5548d28b3b96a1ec1651aa08b777baec.jpg"
+                  },
+                  {
+                    "caption": "U5 - Yarn pulled",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/e43e5df5c9e53b3a952079cab61ad520.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/e43e5df5c9e53b3a952079cab61ad520.jpg"
+                  },
+                  {
+                    "caption": "U5 - Yarn pulled",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/cbe095e93f25118ee70f3207697da57c.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/cbe095e93f25118ee70f3207697da57c.jpg"
+                  },
+                  {
+                    "caption": "U7 - Coarse yarn",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/d96f7d5ea4b8ed9fad715962eb4aa9dd.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/d96f7d5ea4b8ed9fad715962eb4aa9dd.jpg"
+                  },
+                  {
+                    "caption": "U7 - Coarse yarn",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/7a2d17f07d4770f24ebe553d90536dac.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/7a2d17f07d4770f24ebe553d90536dac.jpg"
+                  },
+                  {
+                    "caption": "U7 - Coarse yarn",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/b582ddba61ed4657f3d0f24efe896544.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/b582ddba61ed4657f3d0f24efe896544.jpg"
+                  },
+                  {
+                    "caption": "U7 - Coarse yarn",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/fee5f6c21185c3bd19e33301c9db2597.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/fee5f6c21185c3bd19e33301c9db2597.jpg"
+                  },
+                  {
+                    "caption": "U7 - Coarse yarn",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/2a0d41b8781876cd3985c99b6a35cdf4.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/2a0d41b8781876cd3985c99b6a35cdf4.jpg"
+                  }
+                ],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "Mango Fail Rule",
+            "result": "Fail",
+            "tests": [
+              {
+                "name": "Visual Check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Width",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Length",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Fabric Construction",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Roll Label",
+                "comment": "Only hand written mark was found on fabric rolls, the supplier declared they would paste correct roll labels before shipment",
+                "testResult": "Fail",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "Mango - Factory Review",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Inspection Location",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Inspection Location",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/fd23bf0d0648fef4bcf444536b23a9e3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/fd23bf0d0648fef4bcf444536b23a9e3.jpg"
+                  },
+                  {
+                    "caption": "Inspection Location",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/cca0a59d119d129c9312216b8fc54de1.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/cca0a59d119d129c9312216b8fc54de1.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Inspection Facility",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Condition of Inspection Area",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Weather",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Roll Accessibility",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Roll Accessibility",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/d943d8ad0b2de439da009658993206cf.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/d943d8ad0b2de439da009658993206cf.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "QC reports",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Discrepancies",
+                "comment": "No QC report was provided",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Supplier Re-working",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Factory Disclaimer",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Factory Disclaimer",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/5bbeba0d7752c5c9b7100937ece49368.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/5bbeba0d7752c5c9b7100937ece49368.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "CoC",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "CoC",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/661c5a92e057a6f1cf50f0dbdb098356.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/661c5a92e057a6f1cf50f0dbdb098356.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Draft Report",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Draft Report",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-4/668b107040d6a00e54a65fa43ca672c5.jpg",
+                    "url": "assets/singlefile-photos-v2.1-4/668b107040d6a00e54a65fa43ca672c5.jpg"
+                  }
+                ],
+                "attachments": []
+              }
+            ]
+          }
+        ]
+      },
+      "productMeasurementAQLResult": null,
+      "productMeasurementResults": [],
+      "productReferenceWorkmanShipResult": null
+    },
+    "inspectionDetails": {
+      "generalInfo": [
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SUPPLIER",
+          "value": "Shanghai Hongen Woolen Textile Co., Ltd."
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.FACTORY",
+          "value": "Shanghai Hongen Woolen Textile Co., Ltd."
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.INSPECTION_DATE",
+          "value": "1786233600000"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.INSPECTOR",
+          "value": "QIMA Inspector"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
+          "type": "location",
+          "value": "Jiangyin"
+        }
+      ],
+      "serviceDescription": "Pre-Shipment Inspection",
+      "serviceType": "PSI"
+    },
+    "productDetails": {
+      "generalInfo": [
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SKU",
+          "value": "0410030021.30"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SHIPMENT_DATE",
+          "value": "1786233600000"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.QUANTITY",
+          "value": "8000 Meters"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.PRODUCED_QUANTITY",
+          "value": "8329 Meters"
+        }
+      ],
+      "mainPicture": "assets/singlefile-photos-v2.1-4/34f1d920-cdf5-46d1-80fd-18923756ef0f.jpg",
+      "poNumber": "581935",
+      "productName": "740-DHJ21022DY",
+      "prodQuantityUnit": "Pcs",
+      "skuNumber": "0410030021.30"
+    },
+    "specialIP": null,
+    "attachments": null,
+    "showSummary": true,
+    "aiSummaryStatus": 1,
+    "userId": "EBF23665681F4F83B940A1DE8D949A69",
+    "disableSummaryReportButton": false
+  },
+  "aiSummary": {
+    "alsoWorthNoting": [
+      {
+        "description": "The factory provided an approval sample during inspection, but it lacked the client's signature.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-2",
+            "actionTitle": "Approval sample's seal and signature",
+            "actionContent": "A sealed and dated approval sample that includes production dates is essential. This practice ensures easy identification on-site by both our inspectors and the factory, minimizing any confusion regarding the requirements to be followed."
+          }
+        ]
+      },
+      {
+        "description": "No calibration labels were present on the fabric weight scale or meter reader.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-3",
+            "actionTitle": "Risk of uncalibrated tools",
+            "actionContent": "Ensure that a detailed log is maintained for each tool, documenting its calibration history, next due date, and any issues encountered. Using uncalibrated tools can lead to inaccurate measurements."
+          }
+        ]
+      },
+      {
+        "description": "A total of 8,329.6 meters across 138 rolls, representing 104.12% of the booked quantity, were finished and packed.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      },
+      {
+        "description": "The factory provided fabric specifications on site: total width of 150 cm and weight of 266.67 gsm.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      }
+    ],
+    "fileId": "singlefile-mock-singlefile-v2.1-4",
+    "likeType": "UNLIKE",
+    "measurements": null,
+    "nonConformities": [
+      {
+        "description": "Fabric rolls had only handwritten marks; the supplier stated they would attach correct roll labels before shipment.",
+        "itemContent": "",
+        "photoList": {
+          "testPhotos": [
+            {
+              "name": "Checklist issue 1",
+              "comment": "Fabric rolls had only handwritten marks; the supplier stated they would attach correct roll labels before shipment.",
+              "testResult": "Fail",
+              "photos": []
+            }
+          ]
+        },
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-1",
+            "actionTitle": "Label ordering procedure",
+            "actionContent": "Implement a formal procedure to verify label information with the factory before finalizing orders with label suppliers or internal production teams."
+          }
+        ]
+      }
+    ],
+    "orderNumber": "Q2619570234",
+    "workmanshipAql": {
+      "description": "",
+      "photoList": {
+        "defectsPhotos": []
+      },
+      "recommendedActions": [],
+      "result": "NA"
+    }
+  }
+}

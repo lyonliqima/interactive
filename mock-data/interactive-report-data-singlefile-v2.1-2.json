@@ -1,0 +1,2121 @@
+{
+  "message": "OK",
+  "content": {
+    "reportId": "B849C930970D418D94A81505367D622F",
+    "reportNumber": "Lightro Classic",
+    "orderId": "D3E343E8CD904031B372FB48BA1FEB24",
+    "orderNumber": "Q2612169588",
+    "downloadUrlOfPhotos": "mock-data/local-photos.zip",
+    "downloadUrlOfReport": "mock-data/local-report.pdf",
+    "reportMetadata": {
+      "generalInfo": [
+        {
+          "label": "REPORTS.VIEW_REPORT.INSPECTION_DATE",
+          "value": "1784505600000"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.PO_NO",
+          "value": "PO 5426"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SKU",
+          "value": "CL-LF-2"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.QUANTITY",
+          "value": "29967 Pcs"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.PRODUCED_QUANTITY",
+          "value": "3040 Pcs"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
+          "type": "location",
+          "value": "Qingxizhen"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SUPPLIER",
+          "value": "Dongguan JiaHong Toys Co., Ltd."
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.FACTORY",
+          "value": "Dongguan JiaHong Toys Co., Ltd."
+        }
+      ]
+    },
+    "overallResult": {
+      "isMissed": false,
+      "overallResult": "Fail"
+    },
+    "assessmentResults": [
+      {
+        "color": "#00A876",
+        "label": "Workmanship",
+        "result": "Pass"
+      },
+      {
+        "color": "#E5353D",
+        "label": "Checklists & tests",
+        "result": "Failed"
+      }
+    ],
+    "clientRating": null,
+    "clientRatingFeedback": null,
+    "reportDecision": {
+      "decidedBy": null,
+      "decision": "Pending",
+      "decisionComments": null,
+      "decisionReasons": null,
+      "decisionTime": null,
+      "productId": "B849C930970D418D94A81505367D622F",
+      "productReference": [
+        {
+          "decision": "Pending",
+          "productId": "B849C930970D418D94A81505367D622F",
+          "referenceId": "B849C930970D418D94A81505367D622F",
+          "referencePoNumber": "PO 5426",
+          "referenceQuantity": 29967,
+          "referenceSkuNumber": "CL-LF-2",
+          "decidedBy": null,
+          "decisionComments": null,
+          "decisionReasons": null,
+          "decisionTime": null
+        }
+      ]
+    },
+    "overview": {
+      "overviewDetail": {
+        "generalInfo": [
+          {
+            "label": "REPORTS.VIEW_REPORT.PRODUCT",
+            "value": "Lightro Classic"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.PRODUCT_REF_SKU",
+            "value": "CL-LF-2"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.PO_NO",
+            "value": "PO 5426"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
+            "type": "location",
+            "value": "Qingxizhen"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.INSPECTOR",
+            "value": "QIMA Inspector"
+          },
+          {
+            "label": "REPORTS.VIEW_REPORT.INSPECTOR_REMARK",
+            "value": "1. The actual inspection address was the branch factory of Dongguan Jiahong Toy Co., Ltd. The address was Jingfenghuang industrial zone, Fenggan town, Dongguan city, which was about 10 km away and a 20-minute travel time.\n2. The actual product dimension was 12.0×12.0×20.2 instead of 13.3×12.0 on Spec.\n3. The actual each battery voltage was 1.48 - 1.49 volts instead of 3 volts.\n4. No approval sample was available at the factory during the inspection."
+          }
+        ],
+        "mainPicture": "assets/singlefile-photos-v2.1-2/9a5bbc1d-9703-46c3-a05c-f91174269ef3.jpg"
+      }
+    },
+    "photos": [
+      {
+        "label": "",
+        "categories": [
+          {
+            "title": "Workmanship",
+            "photos": [
+              {
+                "caption": "Poor printing (MAJ)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9a5bbc1d-9703-46c3-a05c-f91174269ef3.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/9a5bbc1d-9703-46c3-a05c-f91174269ef3.jpg"
+              },
+              {
+                "caption": "Poor printing (MIN)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/295392e8-2ac1-4483-88a5-aeb346dfa0ba.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/295392e8-2ac1-4483-88a5-aeb346dfa0ba.jpg"
+              },
+              {
+                "caption": "Poor printing (MIN)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/15f9699f-3e4b-430f-9466-738df09e766d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/15f9699f-3e4b-430f-9466-738df09e766d.jpg"
+              },
+              {
+                "caption": "Stain / streaks (MIN)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/acdd8ddf-2909-4f0c-988e-52fc2c22fd68.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/acdd8ddf-2909-4f0c-988e-52fc2c22fd68.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "",
+        "categories": [
+          {
+            "title": "Checklists & tests",
+            "photos": [
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/8a04a579-e759-4d09-ad9d-d217842708e4.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/8a04a579-e759-4d09-ad9d-d217842708e4.jpg"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f47d883a-dc1d-4b37-83f0-d6596f35ab54.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/f47d883a-dc1d-4b37-83f0-d6596f35ab54.jpg"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4ac070ab-d093-49a8-9d2e-b49273c6a9db.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/4ac070ab-d093-49a8-9d2e-b49273c6a9db.jpg"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/927c485e-88b4-4db7-8ba4-709900e9da18.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/927c485e-88b4-4db7-8ba4-709900e9da18.jpg"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/44af39d7-f639-48a4-81d1-2c9fb8e90797.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/44af39d7-f639-48a4-81d1-2c9fb8e90797.jpg"
+              },
+              {
+                "caption": "Raw Material Quantity Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/dd8c9000-416a-4ae9-ba56-1d7c08b76ce6.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/dd8c9000-416a-4ae9-ba56-1d7c08b76ce6.jpg"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/1ac52c75-f00b-4a9a-9116-4e325cd9d44b.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/1ac52c75-f00b-4a9a-9116-4e325cd9d44b.jpg"
+              },
+              {
+                "caption": "General Storage Conditions",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/aebffc58-22e8-4886-91c3-d4d86ecb5f23.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/aebffc58-22e8-4886-91c3-d4d86ecb5f23.jpg"
+              },
+              {
+                "caption": "Manufacturing Process",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5327ac71-e10a-404b-b98a-993b7e839fa6.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/5327ac71-e10a-404b-b98a-993b7e839fa6.jpg"
+              },
+              {
+                "caption": "Manufacturing Process",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/56f5d753-cda5-402b-b13a-239158141a6e.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/56f5d753-cda5-402b-b13a-239158141a6e.jpg"
+              },
+              {
+                "caption": "Manufacturing Process",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f9f24bd9-ae2a-4ce5-a69f-7eadfac43cd9.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/f9f24bd9-ae2a-4ce5-a69f-7eadfac43cd9.jpg"
+              },
+              {
+                "caption": "How many machines are used for this production?",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/8caaa692-017f-4d00-ada2-fbb6740e0475.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/8caaa692-017f-4d00-ada2-fbb6740e0475.jpg"
+              },
+              {
+                "caption": "Cartons before selection",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/90708561-0583-4754-85a3-22810e089fd4.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/90708561-0583-4754-85a3-22810e089fd4.jpg"
+              },
+              {
+                "caption": "Cartons before selection",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5f525c71-bf46-4929-9b0d-d5a3a7d2e779.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/5f525c71-bf46-4929-9b0d-d5a3a7d2e779.jpg"
+              },
+              {
+                "caption": "Cartons after selection",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/26081e4f-eb07-4b6c-94b8-2c26d163a481.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/26081e4f-eb07-4b6c-94b8-2c26d163a481.jpg"
+              },
+              {
+                "caption": "Cartons after selection",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/69c60830-b23e-4306-92af-cd99e59f0020.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/69c60830-b23e-4306-92af-cd99e59f0020.jpg"
+              },
+              {
+                "caption": "Selected cartons",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0a3a73b7-188f-4f90-8003-361e6c523803.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/0a3a73b7-188f-4f90-8003-361e6c523803.jpg"
+              },
+              {
+                "caption": "Outer Packing & Shipping Marks: Front & Side",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/c6075eb3-fa8e-4ce2-b6b4-0b1013b4acac.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/c6075eb3-fa8e-4ce2-b6b4-0b1013b4acac.jpg"
+              },
+              {
+                "caption": "Outer Packing & Shipping Marks: Front & Side",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4edfbf51-072a-438b-b8c8-39725ef12911.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/4edfbf51-072a-438b-b8c8-39725ef12911.jpg"
+              },
+              {
+                "caption": "Outer Packing & Shipping Marks: Front & Side",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7d562237-0624-497d-9cc0-b98842a6f2db.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/7d562237-0624-497d-9cc0-b98842a6f2db.jpg"
+              },
+              {
+                "caption": "Outer Packing & Shipping Marks: Front & Side",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7edfc952-9925-4759-9a6b-e40de722848c.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/7edfc952-9925-4759-9a6b-e40de722848c.jpg"
+              },
+              {
+                "caption": "Outer Packing & Shipping Marks: Front & Side",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/8d7a6555-1878-4d9e-8341-47c75654a1f8.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/8d7a6555-1878-4d9e-8341-47c75654a1f8.jpg"
+              },
+              {
+                "caption": "Outer Packing & Shipping Marks: Front & Side",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5b5d81bf-285a-4e08-b14a-2d757d68af0b.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/5b5d81bf-285a-4e08-b14a-2d757d68af0b.jpg"
+              },
+              {
+                "caption": "Outer Packing & Shipping Marks: Front & Side",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/13349609-e197-4104-9993-4b12cebbf765.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/13349609-e197-4104-9993-4b12cebbf765.jpg"
+              },
+              {
+                "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a566bdb7-c8af-4127-aa56-02a16760f8b6.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/a566bdb7-c8af-4127-aa56-02a16760f8b6.jpg"
+              },
+              {
+                "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b1816107-4993-444a-87fc-dcde9bfe6ae2.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/b1816107-4993-444a-87fc-dcde9bfe6ae2.jpg"
+              },
+              {
+                "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/57f7062b-3d4a-4632-b9ae-6a2d8b44bda1.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/57f7062b-3d4a-4632-b9ae-6a2d8b44bda1.jpg"
+              },
+              {
+                "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/2aa2dcdf-7d3e-4d0f-a0e5-456bb0860592.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/2aa2dcdf-7d3e-4d0f-a0e5-456bb0860592.jpg"
+              },
+              {
+                "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/45cd5374-9d7f-47a6-b9db-512e53d0ca6f.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/45cd5374-9d7f-47a6-b9db-512e53d0ca6f.jpg"
+              },
+              {
+                "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/c37bf2d1-8044-4bb7-8bdc-f552c830686c.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/c37bf2d1-8044-4bb7-8bdc-f552c830686c.jpg"
+              },
+              {
+                "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/bc648a97-c334-4ac0-ba78-2eb075e17763.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/bc648a97-c334-4ac0-ba78-2eb075e17763.jpg"
+              },
+              {
+                "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/09c60d88-9f3e-4954-a09a-8c5ab6db720f.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/09c60d88-9f3e-4954-a09a-8c5ab6db720f.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/bbe49a06-ea1e-4f68-b42c-e5f991791ee3.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/bbe49a06-ea1e-4f68-b42c-e5f991791ee3.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/c32abbb6-92e7-4b10-be22-26888aaa5cf4.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/c32abbb6-92e7-4b10-be22-26888aaa5cf4.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a385925e-8152-43d8-bbb3-80009175922b.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/a385925e-8152-43d8-bbb3-80009175922b.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/579d840c-2b48-4f1d-b440-a39399b43f60.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/579d840c-2b48-4f1d-b440-a39399b43f60.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4259ccee-64eb-47fc-8e6f-477669497b96.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/4259ccee-64eb-47fc-8e6f-477669497b96.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0951abd1-fbe2-4786-99d0-9bc638c9d4ae.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/0951abd1-fbe2-4786-99d0-9bc638c9d4ae.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/6aa01f37-baad-4ed8-907d-d2da08891354.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/6aa01f37-baad-4ed8-907d-d2da08891354.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f94c44ba-a994-44a0-a768-a3a6d1d01848.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/f94c44ba-a994-44a0-a768-a3a6d1d01848.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0cf4df1e-2d34-4528-b7df-2ae7e1cbfc9e.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/0cf4df1e-2d34-4528-b7df-2ae7e1cbfc9e.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/2ea47de2-3cc4-41a2-ba1e-bb614f0a09bc.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/2ea47de2-3cc4-41a2-ba1e-bb614f0a09bc.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/68a332de-1ee5-4157-bff6-3358293d05d8.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/68a332de-1ee5-4157-bff6-3358293d05d8.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/684e24f4-09ad-4543-9af3-4dbfeae6aa2a.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/684e24f4-09ad-4543-9af3-4dbfeae6aa2a.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/cc375a57-c81c-4e1a-96aa-b7cbf26353f8.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/cc375a57-c81c-4e1a-96aa-b7cbf26353f8.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/26c9679a-cac1-42e6-a302-f7ae0de580e6.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/26c9679a-cac1-42e6-a302-f7ae0de580e6.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7ec8fa8e-3ab5-4527-8ea4-fbd16522ff7f.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/7ec8fa8e-3ab5-4527-8ea4-fbd16522ff7f.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/51a01718-1914-4d07-b461-be9610573295.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/51a01718-1914-4d07-b461-be9610573295.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7a23e51e-aa92-4544-bdf6-8b38b081e113.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/7a23e51e-aa92-4544-bdf6-8b38b081e113.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/d07b82e7-c4ba-4725-9d15-b8b32a4a3be3.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/d07b82e7-c4ba-4725-9d15-b8b32a4a3be3.jpg"
+              },
+              {
+                "caption": "Inner Packing & Unit Packing",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0c53a69f-72c8-486c-a9d1-e7287006bc15.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/0c53a69f-72c8-486c-a9d1-e7287006bc15.jpg"
+              },
+              {
+                "caption": "Match packing info",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/70be08ae-48ea-4f10-9443-95b3a5eafe66.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/70be08ae-48ea-4f10-9443-95b3a5eafe66.jpg"
+              },
+              {
+                "caption": "Match packing info",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a689d1d2-3726-42ed-b1eb-c8dca95d6a12.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/a689d1d2-3726-42ed-b1eb-c8dca95d6a12.jpg"
+              },
+              {
+                "caption": "Carton drop test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/96e676ba-0e11-4a02-b205-2cc002326ed2.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/96e676ba-0e11-4a02-b205-2cc002326ed2.jpg"
+              },
+              {
+                "caption": "Carton drop test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/be17db9c-8031-4566-a945-4fdc3ad4beae.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/be17db9c-8031-4566-a945-4fdc3ad4beae.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f925aae0-4ee4-4954-9b22-1648d89807d8.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/f925aae0-4ee4-4954-9b22-1648d89807d8.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/41d9e8f1-8542-44bc-820e-9f6a3fc469b5.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/41d9e8f1-8542-44bc-820e-9f6a3fc469b5.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0a36ef34-a4a0-47c2-9872-c629e885033d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/0a36ef34-a4a0-47c2-9872-c629e885033d.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9a783df4-c244-4424-863a-27bdd58beb50.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/9a783df4-c244-4424-863a-27bdd58beb50.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/ed064286-900d-4844-9ea6-75669ba1f90e.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/ed064286-900d-4844-9ea6-75669ba1f90e.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/63d48d81-b57c-4ede-a6f5-675f0c801ea1.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/63d48d81-b57c-4ede-a6f5-675f0c801ea1.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/241c01c5-21e9-4215-9811-7e17d7266f21.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/241c01c5-21e9-4215-9811-7e17d7266f21.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0eabe024-bb4e-420d-a5d0-e3c1109e561e.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/0eabe024-bb4e-420d-a5d0-e3c1109e561e.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/23666463-00d6-4f96-a1cf-45d3be9317e3.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/23666463-00d6-4f96-a1cf-45d3be9317e3.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/09a39601-7223-4c62-9137-6ba16fea13ae.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/09a39601-7223-4c62-9137-6ba16fea13ae.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/dd4d1868-03cd-4170-b363-f0bd6bfb93c8.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/dd4d1868-03cd-4170-b363-f0bd6bfb93c8.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/6d8ebde1-65b9-4b6c-af74-3d7fe76cfadb.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/6d8ebde1-65b9-4b6c-af74-3d7fe76cfadb.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/85a400e2-1012-4c10-9c97-6bbeb74a5e30.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/85a400e2-1012-4c10-9c97-6bbeb74a5e30.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0dfc14e2-9538-463b-a192-59bd18946d7e.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/0dfc14e2-9538-463b-a192-59bd18946d7e.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/ec7d0ff3-9d7d-450d-96c5-15d97a703c61.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/ec7d0ff3-9d7d-450d-96c5-15d97a703c61.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/33cd3c35-07b7-4b9b-bdd9-47655c646db8.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/33cd3c35-07b7-4b9b-bdd9-47655c646db8.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/14a26c38-4d21-4765-8d16-94dcdd602277.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/14a26c38-4d21-4765-8d16-94dcdd602277.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/cb705697-74a8-4864-a21e-5811841bc758.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/cb705697-74a8-4864-a21e-5811841bc758.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/db60b421-1d2d-48df-bffb-475cdd1f2d3b.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/db60b421-1d2d-48df-bffb-475cdd1f2d3b.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/48fc1e63-2e28-469f-bf40-4be318e46803.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/48fc1e63-2e28-469f-bf40-4be318e46803.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/8c1b1961-7b47-40b1-9089-9d10ec266457.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/8c1b1961-7b47-40b1-9089-9d10ec266457.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/2b8a6fc2-5309-4d00-bf11-ac23331f8008.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/2b8a6fc2-5309-4d00-bf11-ac23331f8008.jpg"
+              },
+              {
+                "caption": "Product Style & Construction",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/52d8bd33-50d3-4705-a3f2-9bbffd04f159.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/52d8bd33-50d3-4705-a3f2-9bbffd04f159.jpg"
+              },
+              {
+                "caption": "Product Colors",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/18c8a976-61de-40ec-a1f4-ba6df6365ba7.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/18c8a976-61de-40ec-a1f4-ba6df6365ba7.jpg"
+              },
+              {
+                "caption": "Product Logo",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/e05d997f-4219-4bf0-b844-232a00b8e169.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/e05d997f-4219-4bf0-b844-232a00b8e169.jpg"
+              },
+              {
+                "caption": "Product Labels",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/ea45661d-0c35-46ee-9b74-7f5c227be2fc.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/ea45661d-0c35-46ee-9b74-7f5c227be2fc.jpg"
+              },
+              {
+                "caption": "Product Labels",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5b25d3e6-76e1-43b5-94c2-8b234ef4b17d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/5b25d3e6-76e1-43b5-94c2-8b234ef4b17d.jpg"
+              },
+              {
+                "caption": "Approval Sample Comparison",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7e73f766-011e-422d-bf2e-150a597f7e72.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/7e73f766-011e-422d-bf2e-150a597f7e72.jpg"
+              },
+              {
+                "caption": "Approval Sample Comparison",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a38bc2de-d95d-4c65-8bbd-88ef8afab5da.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/a38bc2de-d95d-4c65-8bbd-88ef8afab5da.jpg"
+              },
+              {
+                "caption": "Approval Sample Comparison",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0b394820-fff7-49d6-9a27-ea363151caaf.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/0b394820-fff7-49d6-9a27-ea363151caaf.jpg"
+              },
+              {
+                "caption": "Product Dimensions Result",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7a3cb697-2a03-4a8b-bf5f-1bb44a111b04.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/7a3cb697-2a03-4a8b-bf5f-1bb44a111b04.jpg"
+              },
+              {
+                "caption": "Product Dimensions Result",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/c8f35dcb-95fa-4350-bc9f-f33956e91ad5.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/c8f35dcb-95fa-4350-bc9f-f33956e91ad5.jpg"
+              },
+              {
+                "caption": "Product Dimensions Result",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/769f5dca-98df-4739-8556-824797a4066e.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/769f5dca-98df-4739-8556-824797a4066e.jpg"
+              },
+              {
+                "caption": "Product Dimensions Result",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/475c1a28-6b06-4d45-9666-95b65b90fb65.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/475c1a28-6b06-4d45-9666-95b65b90fb65.jpg"
+              },
+              {
+                "caption": "Product Dimensions Result",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a60e5724-44f7-4677-a6f8-a07c4b442f6d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/a60e5724-44f7-4677-a6f8-a07c4b442f6d.jpg"
+              },
+              {
+                "caption": "Product Dimensions Result",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/756f67b6-c6ce-4ac7-a091-805ba45218bc.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/756f67b6-c6ce-4ac7-a091-805ba45218bc.jpg"
+              },
+              {
+                "caption": "Product Weights Result",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b53958ee-99ce-40f5-9915-a835f14f469d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/b53958ee-99ce-40f5-9915-a835f14f469d.jpg"
+              },
+              {
+                "caption": "Product Weights Result",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/d4972f31-4fb4-4d97-9ae7-623923b4b02d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/d4972f31-4fb4-4d97-9ae7-623923b4b02d.jpg"
+              },
+              {
+                "caption": "Fatigue test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9408cd7f-5e08-4ab3-b139-809fd3b2653e.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/9408cd7f-5e08-4ab3-b139-809fd3b2653e.jpg"
+              },
+              {
+                "caption": "Fatigue test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b37b45fd-c2e4-4630-9f76-bb77c9f59aad.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/b37b45fd-c2e4-4630-9f76-bb77c9f59aad.jpg"
+              },
+              {
+                "caption": "Fatigue test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/97bceba9-9a13-40cf-888a-e56cc3766c3d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/97bceba9-9a13-40cf-888a-e56cc3766c3d.jpg"
+              },
+              {
+                "caption": "Fatigue test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/939dc7e6-648b-4f0a-9d81-e288a054e03d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/939dc7e6-648b-4f0a-9d81-e288a054e03d.jpg"
+              },
+              {
+                "caption": "Assortment / parts check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f3c88023-cb9b-4c04-a0ff-de5671701a6f.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/f3c88023-cb9b-4c04-a0ff-de5671701a6f.jpg"
+              },
+              {
+                "caption": "Rubbing (marking) test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0b7091b5-a3ac-4b4b-9121-331cd24e0613.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/0b7091b5-a3ac-4b4b-9121-331cd24e0613.jpg"
+              },
+              {
+                "caption": "Rubbing (marking) test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/dde9d318-cc3d-4c6c-8a93-93ff98c5f1fa.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/dde9d318-cc3d-4c6c-8a93-93ff98c5f1fa.jpg"
+              },
+              {
+                "caption": "Function test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/1be46390-79da-42e4-a3dd-cc28b60005d6.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/1be46390-79da-42e4-a3dd-cc28b60005d6.jpg"
+              },
+              {
+                "caption": "Function test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4018e507-2bbd-476d-997c-a8f1bb224acd.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/4018e507-2bbd-476d-997c-a8f1bb224acd.jpg"
+              },
+              {
+                "caption": "Quantity and assortment check (per package)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a7bec9f4-8b55-47e1-86f8-50df9a01e1b1.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/a7bec9f4-8b55-47e1-86f8-50df9a01e1b1.jpg"
+              },
+              {
+                "caption": "Quantity and assortment check (per package)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7c94f2da-b25e-4564-950c-f5feff44f404.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/7c94f2da-b25e-4564-950c-f5feff44f404.jpg"
+              },
+              {
+                "caption": "Approval sample comparison",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9b435b1b-d3d3-4037-afca-2549564a2e92.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/9b435b1b-d3d3-4037-afca-2549564a2e92.jpg"
+              },
+              {
+                "caption": "Battery pull tab",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7fe182c2-2c07-4dfc-8f8d-7b0956439f46.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/7fe182c2-2c07-4dfc-8f8d-7b0956439f46.jpg"
+              },
+              {
+                "caption": "Battery pull tab",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/63761492-320a-4e64-a11b-c5dba6850ee3.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/63761492-320a-4e64-a11b-c5dba6850ee3.jpg"
+              },
+              {
+                "caption": "Battery pull tab",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9a510f9f-ccff-478c-a030-b8cc5cbb79e1.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/9a510f9f-ccff-478c-a030-b8cc5cbb79e1.jpg"
+              },
+              {
+                "caption": "Light pass-through",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/65e391be-acd1-4958-9a6d-5decdb7d7541.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/65e391be-acd1-4958-9a6d-5decdb7d7541.jpg"
+              },
+              {
+                "caption": "Light pass-through",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/43014b0b-940e-46d8-a6d6-c80c46ee1d2f.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/43014b0b-940e-46d8-a6d6-c80c46ee1d2f.jpg"
+              },
+              {
+                "caption": "Foam hardness test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f5d26ba8-6a4f-4852-ac45-d769732b06b5.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/f5d26ba8-6a4f-4852-ac45-d769732b06b5.jpg"
+              },
+              {
+                "caption": "Foam hardness test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/62fd68ef-ad0c-4fd8-bdaf-466b8e633399.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/62fd68ef-ad0c-4fd8-bdaf-466b8e633399.jpg"
+              },
+              {
+                "caption": "Foam hardness test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/41549b9c-4e28-4ed6-aee3-8a6546449d08.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/41549b9c-4e28-4ed6-aee3-8a6546449d08.jpg"
+              },
+              {
+                "caption": "Weight check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/102a1a9b-5af1-4eec-99e3-8c337b28e8cd.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/102a1a9b-5af1-4eec-99e3-8c337b28e8cd.jpg"
+              },
+              {
+                "caption": "Battery voltage test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/660b24d0-515d-4655-acc6-ede06e6e04b5.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/660b24d0-515d-4655-acc6-ede06e6e04b5.jpg"
+              },
+              {
+                "caption": "Battery voltage test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/970c5745-4d38-46b8-93ab-200b97bc176a.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/970c5745-4d38-46b8-93ab-200b97bc176a.jpg"
+              },
+              {
+                "caption": "Battery voltage test",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b1248d2d-5ff6-4bac-9963-275b2692e94f.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/b1248d2d-5ff6-4bac-9963-275b2692e94f.jpg"
+              },
+              {
+                "caption": "Internal Component Visual Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/889ed581-dc9c-4924-8637-228938c93b60.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/889ed581-dc9c-4924-8637-228938c93b60.jpg"
+              },
+              {
+                "caption": "Internal Component Visual Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4cc33106-24b3-436a-8169-4b14543208fd.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/4cc33106-24b3-436a-8169-4b14543208fd.jpg"
+              },
+              {
+                "caption": "Internal Component Visual Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/424dd2b9-1e4d-452b-ad96-a678b0058c31.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/424dd2b9-1e4d-452b-ad96-a678b0058c31.jpg"
+              },
+              {
+                "caption": "Internal Component Visual Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b3b72576-a8d8-4904-adbf-2b2c2139e1ff.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/b3b72576-a8d8-4904-adbf-2b2c2139e1ff.jpg"
+              },
+              {
+                "caption": "Internal Component Visual Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9ba1db51-967d-4d40-b7eb-a1a05e0f370d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/9ba1db51-967d-4d40-b7eb-a1a05e0f370d.jpg"
+              },
+              {
+                "caption": "Internal Component Visual Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/90e1b416-0c5a-4a81-a74f-915479e50556.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/90e1b416-0c5a-4a81-a74f-915479e50556.jpg"
+              },
+              {
+                "caption": "Internal Component Visual Check",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/09c29f16-468a-40cb-bb45-09851aca170e.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/09c29f16-468a-40cb-bb45-09851aca170e.jpg"
+              },
+              {
+                "caption": "Are the QIMA documents signed?",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5c717890-19d6-4eaf-b598-f977d5c9edea.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/5c717890-19d6-4eaf-b598-f977d5c9edea.jpg"
+              },
+              {
+                "caption": "Are the QIMA documents signed?",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/65aa9a69-50ab-4301-b296-ef5851f6d3c4.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/65aa9a69-50ab-4301-b296-ef5851f6d3c4.jpg"
+              },
+              {
+                "caption": "Are the QIMA documents signed?",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/d3a06ef5-5dd6-4f0f-abc0-604ae492f789.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/d3a06ef5-5dd6-4f0f-abc0-604ae492f789.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "keyIndicator": {
+      "inspectionResultSummary": {
+        "checkedCritical": "50",
+        "checkedMajor": "50",
+        "checkedMinor": "50",
+        "foundCritical": "0",
+        "foundMajor": "1",
+        "foundMinor": "3",
+        "maxCritical": "0",
+        "maxMajor": "3",
+        "maxMinor": "5",
+        "measurementAqlResult": "N/A",
+        "measurementChecked": "0",
+        "measurementFound": "0",
+        "testResults": "Failed",
+        "workmanShipResult": "Within AQL",
+        "defects": [
+          {
+            "name": "Poor printing (MAJ)",
+            "comment": "Poor painting",
+            "foundCritical": "0.0",
+            "foundMajor": "1.0",
+            "foundMinor": "0",
+            "photos": [
+              {
+                "caption": "Poor printing (MAJ)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9a5bbc1d-9703-46c3-a05c-f91174269ef3.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/9a5bbc1d-9703-46c3-a05c-f91174269ef3.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Poor printing (MIN)",
+            "comment": "Poor painting",
+            "foundCritical": "0.0",
+            "foundMajor": "0.0",
+            "foundMinor": "2",
+            "photos": [
+              {
+                "caption": "Poor printing (MIN)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/295392e8-2ac1-4483-88a5-aeb346dfa0ba.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/295392e8-2ac1-4483-88a5-aeb346dfa0ba.jpg"
+              },
+              {
+                "caption": "Poor printing (MIN)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/15f9699f-3e4b-430f-9466-738df09e766d.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/15f9699f-3e4b-430f-9466-738df09e766d.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Stain / streaks (MIN)",
+            "comment": "",
+            "foundCritical": "0.0",
+            "foundMajor": "0.0",
+            "foundMinor": "1",
+            "photos": [
+              {
+                "caption": "Stain / streaks (MIN)",
+                "thumbnailUrl": "assets/singlefile-photos-v2.1-2/acdd8ddf-2909-4f0c-988e-52fc2c22fd68.jpg",
+                "url": "assets/singlefile-photos-v2.1-2/acdd8ddf-2909-4f0c-988e-52fc2c22fd68.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      "testAndSpecialRequirement": {
+        "passedTests": "47",
+        "failedTests": "1",
+        "totalTests": "48",
+        "checklists": [
+          {
+            "checklistName": "QIMA - Standard Checklist - IPC",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Daily order production capacity as per factory",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Daily order production capacity as per inspector",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Expected order completion date",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Overall Product Quantity",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Raw Material Quantity Check",
+                "comment": "Raw material: Ball: 100% had been finished. Electric parts: 100% had been finished. Packaging material including instruction sheet, label, gift box, and cartons had been 100% finished.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Raw Material Quantity Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/8a04a579-e759-4d09-ad9d-d217842708e4.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/8a04a579-e759-4d09-ad9d-d217842708e4.jpg"
+                  },
+                  {
+                    "caption": "Raw Material Quantity Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f47d883a-dc1d-4b37-83f0-d6596f35ab54.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/f47d883a-dc1d-4b37-83f0-d6596f35ab54.jpg"
+                  },
+                  {
+                    "caption": "Raw Material Quantity Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4ac070ab-d093-49a8-9d2e-b49273c6a9db.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/4ac070ab-d093-49a8-9d2e-b49273c6a9db.jpg"
+                  },
+                  {
+                    "caption": "Raw Material Quantity Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/927c485e-88b4-4db7-8ba4-709900e9da18.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/927c485e-88b4-4db7-8ba4-709900e9da18.jpg"
+                  },
+                  {
+                    "caption": "Raw Material Quantity Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/44af39d7-f639-48a4-81d1-2c9fb8e90797.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/44af39d7-f639-48a4-81d1-2c9fb8e90797.jpg"
+                  },
+                  {
+                    "caption": "Raw Material Quantity Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/dd8c9000-416a-4ae9-ba56-1d7c08b76ce6.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/dd8c9000-416a-4ae9-ba56-1d7c08b76ce6.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "General Storage Conditions",
+                "comment": "All raw material stored in the warehouse.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "General Storage Conditions",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/1ac52c75-f00b-4a9a-9116-4e325cd9d44b.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/1ac52c75-f00b-4a9a-9116-4e325cd9d44b.jpg"
+                  },
+                  {
+                    "caption": "General Storage Conditions",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/aebffc58-22e8-4886-91c3-d4d86ecb5f23.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/aebffc58-22e8-4886-91c3-d4d86ecb5f23.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Manufacturing Process",
+                "comment": "The ball would be painted, then assembled with the electric parts, then packed into the gift box and master carton.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Manufacturing Process",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5327ac71-e10a-404b-b98a-993b7e839fa6.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/5327ac71-e10a-404b-b98a-993b7e839fa6.jpg"
+                  },
+                  {
+                    "caption": "Manufacturing Process",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/56f5d753-cda5-402b-b13a-239158141a6e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/56f5d753-cda5-402b-b13a-239158141a6e.jpg"
+                  },
+                  {
+                    "caption": "Manufacturing Process",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f9f24bd9-ae2a-4ce5-a69f-7eadfac43cd9.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/f9f24bd9-ae2a-4ce5-a69f-7eadfac43cd9.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "How many workers are dedicated to this production?",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "How many machines are used for this production?",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "How many machines are used for this production?",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/8caaa692-017f-4d00-ada2-fbb6740e0475.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/8caaa692-017f-4d00-ada2-fbb6740e0475.jpg"
+                  }
+                ],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "QIMA - Quantity & Packaging",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Available Quantity Check: Finished&Packed&Unpacked",
+                "comment": "3040 pcs (10.14%) were finished and packed.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Available Quantity Details",
+                "comment": "3040 pcs (10.14%) were finished and packed.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "QIMA - Product Specifications - HL",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Random carton selection",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Cartons before selection",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Cartons before selection",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/90708561-0583-4754-85a3-22810e089fd4.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/90708561-0583-4754-85a3-22810e089fd4.jpg"
+                  },
+                  {
+                    "caption": "Cartons before selection",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5f525c71-bf46-4929-9b0d-d5a3a7d2e779.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/5f525c71-bf46-4929-9b0d-d5a3a7d2e779.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Cartons after selection",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Cartons after selection",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/26081e4f-eb07-4b6c-94b8-2c26d163a481.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/26081e4f-eb07-4b6c-94b8-2c26d163a481.jpg"
+                  },
+                  {
+                    "caption": "Cartons after selection",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/69c60830-b23e-4306-92af-cd99e59f0020.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/69c60830-b23e-4306-92af-cd99e59f0020.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Selected cartons",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Selected cartons",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0a3a73b7-188f-4f90-8003-361e6c523803.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/0a3a73b7-188f-4f90-8003-361e6c523803.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Outer Packing & Shipping Marks: Front & Side",
+                "comment": "No spec was provided.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Outer Packing & Shipping Marks: Front & Side",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/c6075eb3-fa8e-4ce2-b6b4-0b1013b4acac.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/c6075eb3-fa8e-4ce2-b6b4-0b1013b4acac.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing & Shipping Marks: Front & Side",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4edfbf51-072a-438b-b8c8-39725ef12911.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/4edfbf51-072a-438b-b8c8-39725ef12911.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing & Shipping Marks: Front & Side",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7d562237-0624-497d-9cc0-b98842a6f2db.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/7d562237-0624-497d-9cc0-b98842a6f2db.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing & Shipping Marks: Front & Side",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7edfc952-9925-4759-9a6b-e40de722848c.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/7edfc952-9925-4759-9a6b-e40de722848c.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing & Shipping Marks: Front & Side",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/8d7a6555-1878-4d9e-8341-47c75654a1f8.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/8d7a6555-1878-4d9e-8341-47c75654a1f8.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing & Shipping Marks: Front & Side",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5b5d81bf-285a-4e08-b14a-2d757d68af0b.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/5b5d81bf-285a-4e08-b14a-2d757d68af0b.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing & Shipping Marks: Front & Side",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/13349609-e197-4104-9993-4b12cebbf765.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/13349609-e197-4104-9993-4b12cebbf765.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Outer Packing: Assortment, Dimensions & Weight",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a566bdb7-c8af-4127-aa56-02a16760f8b6.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/a566bdb7-c8af-4127-aa56-02a16760f8b6.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b1816107-4993-444a-87fc-dcde9bfe6ae2.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/b1816107-4993-444a-87fc-dcde9bfe6ae2.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/57f7062b-3d4a-4632-b9ae-6a2d8b44bda1.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/57f7062b-3d4a-4632-b9ae-6a2d8b44bda1.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/2aa2dcdf-7d3e-4d0f-a0e5-456bb0860592.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/2aa2dcdf-7d3e-4d0f-a0e5-456bb0860592.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/45cd5374-9d7f-47a6-b9db-512e53d0ca6f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/45cd5374-9d7f-47a6-b9db-512e53d0ca6f.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/c37bf2d1-8044-4bb7-8bdc-f552c830686c.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/c37bf2d1-8044-4bb7-8bdc-f552c830686c.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/bc648a97-c334-4ac0-ba78-2eb075e17763.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/bc648a97-c334-4ac0-ba78-2eb075e17763.jpg"
+                  },
+                  {
+                    "caption": "Outer Packing: Assortment, Dimensions & Weight",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/09c60d88-9f3e-4954-a09a-8c5ab6db720f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/09c60d88-9f3e-4954-a09a-8c5ab6db720f.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Inner Packing & Unit Packing",
+                "comment": "No approval sample was available at the factory during the inspection.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/bbe49a06-ea1e-4f68-b42c-e5f991791ee3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/bbe49a06-ea1e-4f68-b42c-e5f991791ee3.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/c32abbb6-92e7-4b10-be22-26888aaa5cf4.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/c32abbb6-92e7-4b10-be22-26888aaa5cf4.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a385925e-8152-43d8-bbb3-80009175922b.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/a385925e-8152-43d8-bbb3-80009175922b.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/579d840c-2b48-4f1d-b440-a39399b43f60.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/579d840c-2b48-4f1d-b440-a39399b43f60.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4259ccee-64eb-47fc-8e6f-477669497b96.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/4259ccee-64eb-47fc-8e6f-477669497b96.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0951abd1-fbe2-4786-99d0-9bc638c9d4ae.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/0951abd1-fbe2-4786-99d0-9bc638c9d4ae.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/6aa01f37-baad-4ed8-907d-d2da08891354.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/6aa01f37-baad-4ed8-907d-d2da08891354.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f94c44ba-a994-44a0-a768-a3a6d1d01848.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/f94c44ba-a994-44a0-a768-a3a6d1d01848.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0cf4df1e-2d34-4528-b7df-2ae7e1cbfc9e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/0cf4df1e-2d34-4528-b7df-2ae7e1cbfc9e.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/2ea47de2-3cc4-41a2-ba1e-bb614f0a09bc.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/2ea47de2-3cc4-41a2-ba1e-bb614f0a09bc.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/68a332de-1ee5-4157-bff6-3358293d05d8.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/68a332de-1ee5-4157-bff6-3358293d05d8.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/684e24f4-09ad-4543-9af3-4dbfeae6aa2a.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/684e24f4-09ad-4543-9af3-4dbfeae6aa2a.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/cc375a57-c81c-4e1a-96aa-b7cbf26353f8.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/cc375a57-c81c-4e1a-96aa-b7cbf26353f8.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/26c9679a-cac1-42e6-a302-f7ae0de580e6.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/26c9679a-cac1-42e6-a302-f7ae0de580e6.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7ec8fa8e-3ab5-4527-8ea4-fbd16522ff7f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/7ec8fa8e-3ab5-4527-8ea4-fbd16522ff7f.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/51a01718-1914-4d07-b461-be9610573295.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/51a01718-1914-4d07-b461-be9610573295.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7a23e51e-aa92-4544-bdf6-8b38b081e113.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/7a23e51e-aa92-4544-bdf6-8b38b081e113.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/d07b82e7-c4ba-4725-9d15-b8b32a4a3be3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/d07b82e7-c4ba-4725-9d15-b8b32a4a3be3.jpg"
+                  },
+                  {
+                    "caption": "Inner Packing & Unit Packing",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0c53a69f-72c8-486c-a9d1-e7287006bc15.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/0c53a69f-72c8-486c-a9d1-e7287006bc15.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Match packing info",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Match packing info",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/70be08ae-48ea-4f10-9443-95b3a5eafe66.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/70be08ae-48ea-4f10-9443-95b3a5eafe66.jpg"
+                  },
+                  {
+                    "caption": "Match packing info",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a689d1d2-3726-42ed-b1eb-c8dca95d6a12.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/a689d1d2-3726-42ed-b1eb-c8dca95d6a12.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Carton drop test",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Carton drop test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/96e676ba-0e11-4a02-b205-2cc002326ed2.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/96e676ba-0e11-4a02-b205-2cc002326ed2.jpg"
+                  },
+                  {
+                    "caption": "Carton drop test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/be17db9c-8031-4566-a945-4fdc3ad4beae.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/be17db9c-8031-4566-a945-4fdc3ad4beae.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Shake test info",
+                "comment": "Not applicable.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Product Style & Construction",
+                "comment": "No approval sample was available at the factory during the inspection.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f925aae0-4ee4-4954-9b22-1648d89807d8.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/f925aae0-4ee4-4954-9b22-1648d89807d8.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/41d9e8f1-8542-44bc-820e-9f6a3fc469b5.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/41d9e8f1-8542-44bc-820e-9f6a3fc469b5.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0a36ef34-a4a0-47c2-9872-c629e885033d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/0a36ef34-a4a0-47c2-9872-c629e885033d.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9a783df4-c244-4424-863a-27bdd58beb50.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/9a783df4-c244-4424-863a-27bdd58beb50.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/ed064286-900d-4844-9ea6-75669ba1f90e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/ed064286-900d-4844-9ea6-75669ba1f90e.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/63d48d81-b57c-4ede-a6f5-675f0c801ea1.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/63d48d81-b57c-4ede-a6f5-675f0c801ea1.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/241c01c5-21e9-4215-9811-7e17d7266f21.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/241c01c5-21e9-4215-9811-7e17d7266f21.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0eabe024-bb4e-420d-a5d0-e3c1109e561e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/0eabe024-bb4e-420d-a5d0-e3c1109e561e.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/23666463-00d6-4f96-a1cf-45d3be9317e3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/23666463-00d6-4f96-a1cf-45d3be9317e3.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/09a39601-7223-4c62-9137-6ba16fea13ae.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/09a39601-7223-4c62-9137-6ba16fea13ae.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/dd4d1868-03cd-4170-b363-f0bd6bfb93c8.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/dd4d1868-03cd-4170-b363-f0bd6bfb93c8.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/6d8ebde1-65b9-4b6c-af74-3d7fe76cfadb.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/6d8ebde1-65b9-4b6c-af74-3d7fe76cfadb.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/85a400e2-1012-4c10-9c97-6bbeb74a5e30.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/85a400e2-1012-4c10-9c97-6bbeb74a5e30.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0dfc14e2-9538-463b-a192-59bd18946d7e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/0dfc14e2-9538-463b-a192-59bd18946d7e.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/ec7d0ff3-9d7d-450d-96c5-15d97a703c61.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/ec7d0ff3-9d7d-450d-96c5-15d97a703c61.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/33cd3c35-07b7-4b9b-bdd9-47655c646db8.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/33cd3c35-07b7-4b9b-bdd9-47655c646db8.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/14a26c38-4d21-4765-8d16-94dcdd602277.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/14a26c38-4d21-4765-8d16-94dcdd602277.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/cb705697-74a8-4864-a21e-5811841bc758.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/cb705697-74a8-4864-a21e-5811841bc758.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/db60b421-1d2d-48df-bffb-475cdd1f2d3b.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/db60b421-1d2d-48df-bffb-475cdd1f2d3b.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/48fc1e63-2e28-469f-bf40-4be318e46803.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/48fc1e63-2e28-469f-bf40-4be318e46803.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/8c1b1961-7b47-40b1-9089-9d10ec266457.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/8c1b1961-7b47-40b1-9089-9d10ec266457.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/2b8a6fc2-5309-4d00-bf11-ac23331f8008.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/2b8a6fc2-5309-4d00-bf11-ac23331f8008.jpg"
+                  },
+                  {
+                    "caption": "Product Style & Construction",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/52d8bd33-50d3-4705-a3f2-9bbffd04f159.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/52d8bd33-50d3-4705-a3f2-9bbffd04f159.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Product Colors",
+                "comment": "No approval sample was available at the factory during the inspection.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Product Colors",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/18c8a976-61de-40ec-a1f4-ba6df6365ba7.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/18c8a976-61de-40ec-a1f4-ba6df6365ba7.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Product Logo",
+                "comment": "No approval sample was available at the factory during the inspection.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Product Logo",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/e05d997f-4219-4bf0-b844-232a00b8e169.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/e05d997f-4219-4bf0-b844-232a00b8e169.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Product Labels",
+                "comment": "No approval sample was available at the factory during the inspection.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Product Labels",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/ea45661d-0c35-46ee-9b74-7f5c227be2fc.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/ea45661d-0c35-46ee-9b74-7f5c227be2fc.jpg"
+                  },
+                  {
+                    "caption": "Product Labels",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5b25d3e6-76e1-43b5-94c2-8b234ef4b17d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/5b25d3e6-76e1-43b5-94c2-8b234ef4b17d.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Approval Sample Comparison",
+                "comment": "No approval sample was available at the factory during the inspection. Sealed 4 pcs production sample would be sent to the client by the factory. No waybill was provided by the factory.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Approval Sample Comparison",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7e73f766-011e-422d-bf2e-150a597f7e72.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/7e73f766-011e-422d-bf2e-150a597f7e72.jpg"
+                  },
+                  {
+                    "caption": "Approval Sample Comparison",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a38bc2de-d95d-4c65-8bbd-88ef8afab5da.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/a38bc2de-d95d-4c65-8bbd-88ef8afab5da.jpg"
+                  },
+                  {
+                    "caption": "Approval Sample Comparison",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0b394820-fff7-49d6-9a27-ea363151caaf.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/0b394820-fff7-49d6-9a27-ea363151caaf.jpg"
+                  }
+                ],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "QIMA - Product Dimensions & Weights - HL",
+            "result": "Fail",
+            "tests": [
+              {
+                "name": "Product Dimensions Result",
+                "comment": "The actual product dimension was 12.0×12.0×20.2 instead of 13.3×12.0 on Spec.",
+                "testResult": "Fail",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Product Dimensions Result",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7a3cb697-2a03-4a8b-bf5f-1bb44a111b04.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/7a3cb697-2a03-4a8b-bf5f-1bb44a111b04.jpg"
+                  },
+                  {
+                    "caption": "Product Dimensions Result",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/c8f35dcb-95fa-4350-bc9f-f33956e91ad5.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/c8f35dcb-95fa-4350-bc9f-f33956e91ad5.jpg"
+                  },
+                  {
+                    "caption": "Product Dimensions Result",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/769f5dca-98df-4739-8556-824797a4066e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/769f5dca-98df-4739-8556-824797a4066e.jpg"
+                  },
+                  {
+                    "caption": "Product Dimensions Result",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/475c1a28-6b06-4d45-9666-95b65b90fb65.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/475c1a28-6b06-4d45-9666-95b65b90fb65.jpg"
+                  },
+                  {
+                    "caption": "Product Dimensions Result",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a60e5724-44f7-4677-a6f8-a07c4b442f6d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/a60e5724-44f7-4677-a6f8-a07c4b442f6d.jpg"
+                  },
+                  {
+                    "caption": "Product Dimensions Result",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/756f67b6-c6ce-4ac7-a091-805ba45218bc.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/756f67b6-c6ce-4ac7-a091-805ba45218bc.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Product Dimensions Details",
+                "comment": "The actual product dimension was 12.0×12.0×20.2 instead of 13.3×12.0 on Spec.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Product Weights Result",
+                "comment": "Conformed to spec.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Product Weights Result",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b53958ee-99ce-40f5-9915-a835f14f469d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/b53958ee-99ce-40f5-9915-a835f14f469d.jpg"
+                  },
+                  {
+                    "caption": "Product Weights Result",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/d4972f31-4fb4-4d97-9ae7-623923b4b02d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/d4972f31-4fb4-4d97-9ae7-623923b4b02d.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Product Weights Details",
+                "comment": "Conformed to spec.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "Q2612169588_1 - Test - Lightro Classic - CL-LF-2",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Fatigue test",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Fatigue test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9408cd7f-5e08-4ab3-b139-809fd3b2653e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/9408cd7f-5e08-4ab3-b139-809fd3b2653e.jpg"
+                  },
+                  {
+                    "caption": "Fatigue test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b37b45fd-c2e4-4630-9f76-bb77c9f59aad.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/b37b45fd-c2e4-4630-9f76-bb77c9f59aad.jpg"
+                  },
+                  {
+                    "caption": "Fatigue test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/97bceba9-9a13-40cf-888a-e56cc3766c3d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/97bceba9-9a13-40cf-888a-e56cc3766c3d.jpg"
+                  },
+                  {
+                    "caption": "Fatigue test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/939dc7e6-648b-4f0a-9d81-e288a054e03d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/939dc7e6-648b-4f0a-9d81-e288a054e03d.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Assortment / parts check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Assortment / parts check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f3c88023-cb9b-4c04-a0ff-de5671701a6f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/f3c88023-cb9b-4c04-a0ff-de5671701a6f.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Rubbing (marking) test",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Rubbing (marking) test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/0b7091b5-a3ac-4b4b-9121-331cd24e0613.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/0b7091b5-a3ac-4b4b-9121-331cd24e0613.jpg"
+                  },
+                  {
+                    "caption": "Rubbing (marking) test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/dde9d318-cc3d-4c6c-8a93-93ff98c5f1fa.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/dde9d318-cc3d-4c6c-8a93-93ff98c5f1fa.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Function test",
+                "comment": "Turn off about 41-44 S",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Function test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/1be46390-79da-42e4-a3dd-cc28b60005d6.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/1be46390-79da-42e4-a3dd-cc28b60005d6.jpg"
+                  },
+                  {
+                    "caption": "Function test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4018e507-2bbd-476d-997c-a8f1bb224acd.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/4018e507-2bbd-476d-997c-a8f1bb224acd.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Quantity and assortment check (per package)",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Quantity and assortment check (per package)",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/a7bec9f4-8b55-47e1-86f8-50df9a01e1b1.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/a7bec9f4-8b55-47e1-86f8-50df9a01e1b1.jpg"
+                  },
+                  {
+                    "caption": "Quantity and assortment check (per package)",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7c94f2da-b25e-4564-950c-f5feff44f404.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/7c94f2da-b25e-4564-950c-f5feff44f404.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Approval sample comparison",
+                "comment": "No approval sample was available at the factory during the inspection.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Approval sample comparison",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9b435b1b-d3d3-4037-afca-2549564a2e92.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/9b435b1b-d3d3-4037-afca-2549564a2e92.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Battery pull tab",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Battery pull tab",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/7fe182c2-2c07-4dfc-8f8d-7b0956439f46.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/7fe182c2-2c07-4dfc-8f8d-7b0956439f46.jpg"
+                  },
+                  {
+                    "caption": "Battery pull tab",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/63761492-320a-4e64-a11b-c5dba6850ee3.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/63761492-320a-4e64-a11b-c5dba6850ee3.jpg"
+                  },
+                  {
+                    "caption": "Battery pull tab",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9a510f9f-ccff-478c-a030-b8cc5cbb79e1.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/9a510f9f-ccff-478c-a030-b8cc5cbb79e1.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Light pass-through",
+                "comment": "No approval sample was available at the factory during the inspection.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Light pass-through",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/65e391be-acd1-4958-9a6d-5decdb7d7541.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/65e391be-acd1-4958-9a6d-5decdb7d7541.jpg"
+                  },
+                  {
+                    "caption": "Light pass-through",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/43014b0b-940e-46d8-a6d6-c80c46ee1d2f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/43014b0b-940e-46d8-a6d6-c80c46ee1d2f.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Foam hardness test",
+                "comment": "No approval sample was available at the factory during the inspection.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Foam hardness test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/f5d26ba8-6a4f-4852-ac45-d769732b06b5.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/f5d26ba8-6a4f-4852-ac45-d769732b06b5.jpg"
+                  },
+                  {
+                    "caption": "Foam hardness test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/62fd68ef-ad0c-4fd8-bdaf-466b8e633399.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/62fd68ef-ad0c-4fd8-bdaf-466b8e633399.jpg"
+                  },
+                  {
+                    "caption": "Foam hardness test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/41549b9c-4e28-4ed6-aee3-8a6546449d08.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/41549b9c-4e28-4ed6-aee3-8a6546449d08.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Weight check",
+                "comment": "For details, refer to QIMA - Product Dimensions & Weights - HL section.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Weight check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/102a1a9b-5af1-4eec-99e3-8c337b28e8cd.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/102a1a9b-5af1-4eec-99e3-8c337b28e8cd.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Battery voltage test",
+                "comment": "The actual each voltage was 1.48 - 1.49 volts instead of 3 volts.",
+                "testResult": "N/A",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Battery voltage test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/660b24d0-515d-4655-acc6-ede06e6e04b5.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/660b24d0-515d-4655-acc6-ede06e6e04b5.jpg"
+                  },
+                  {
+                    "caption": "Battery voltage test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/970c5745-4d38-46b8-93ab-200b97bc176a.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/970c5745-4d38-46b8-93ab-200b97bc176a.jpg"
+                  },
+                  {
+                    "caption": "Battery voltage test",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b1248d2d-5ff6-4bac-9963-275b2692e94f.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/b1248d2d-5ff6-4bac-9963-275b2692e94f.jpg"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "name": "Internal Component Visual Check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Internal Component Visual Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/889ed581-dc9c-4924-8637-228938c93b60.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/889ed581-dc9c-4924-8637-228938c93b60.jpg"
+                  },
+                  {
+                    "caption": "Internal Component Visual Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/4cc33106-24b3-436a-8169-4b14543208fd.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/4cc33106-24b3-436a-8169-4b14543208fd.jpg"
+                  },
+                  {
+                    "caption": "Internal Component Visual Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/424dd2b9-1e4d-452b-ad96-a678b0058c31.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/424dd2b9-1e4d-452b-ad96-a678b0058c31.jpg"
+                  },
+                  {
+                    "caption": "Internal Component Visual Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/b3b72576-a8d8-4904-adbf-2b2c2139e1ff.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/b3b72576-a8d8-4904-adbf-2b2c2139e1ff.jpg"
+                  },
+                  {
+                    "caption": "Internal Component Visual Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/9ba1db51-967d-4d40-b7eb-a1a05e0f370d.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/9ba1db51-967d-4d40-b7eb-a1a05e0f370d.jpg"
+                  },
+                  {
+                    "caption": "Internal Component Visual Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/90e1b416-0c5a-4a81-a74f-915479e50556.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/90e1b416-0c5a-4a81-a74f-915479e50556.jpg"
+                  },
+                  {
+                    "caption": "Internal Component Visual Check",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/09c29f16-468a-40cb-bb45-09851aca170e.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/09c29f16-468a-40cb-bb45-09851aca170e.jpg"
+                  }
+                ],
+                "attachments": []
+              }
+            ]
+          },
+          {
+            "checklistName": "QIMA - Factory Review",
+            "result": "Pass",
+            "tests": [
+              {
+                "name": "Is the factory/workshop location same as booked?",
+                "comment": "1. The actual inspection address was the branch factory of Dongguan Jiahong Toy Co., Ltd. The actual address was Jingfenghuang industrial zone, Fenggan town, Dongguan city, which was about 10 km away and a 20-minute travel time.",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Factory Cooperation, Organization and Cleanliness",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Inspection Room Lighting Conditions",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Tools calibration",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Mold Prevention Check",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [],
+                "attachments": []
+              },
+              {
+                "name": "Are the QIMA documents signed?",
+                "comment": "",
+                "testResult": "Pass",
+                "isExcluded": false,
+                "photos": [
+                  {
+                    "caption": "Are the QIMA documents signed?",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/5c717890-19d6-4eaf-b598-f977d5c9edea.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/5c717890-19d6-4eaf-b598-f977d5c9edea.jpg"
+                  },
+                  {
+                    "caption": "Are the QIMA documents signed?",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/65aa9a69-50ab-4301-b296-ef5851f6d3c4.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/65aa9a69-50ab-4301-b296-ef5851f6d3c4.jpg"
+                  },
+                  {
+                    "caption": "Are the QIMA documents signed?",
+                    "thumbnailUrl": "assets/singlefile-photos-v2.1-2/d3a06ef5-5dd6-4f0f-abc0-604ae492f789.jpg",
+                    "url": "assets/singlefile-photos-v2.1-2/d3a06ef5-5dd6-4f0f-abc0-604ae492f789.jpg"
+                  }
+                ],
+                "attachments": []
+              }
+            ]
+          }
+        ]
+      },
+      "productMeasurementAQLResult": null,
+      "productMeasurementResults": [],
+      "productReferenceWorkmanShipResult": null
+    },
+    "inspectionDetails": {
+      "generalInfo": [
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SUPPLIER",
+          "value": "Dongguan JiaHong Toys Co., Ltd."
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.FACTORY",
+          "value": "Dongguan JiaHong Toys Co., Ltd."
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.INSPECTION_DATE",
+          "value": "1784505600000"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.INSPECTOR",
+          "value": "QIMA Inspector"
+        },
+        {
+          "label": "REPORTS.VIEW_REPORT.PERFORMED_IN",
+          "type": "location",
+          "value": "Qingxizhen"
+        }
+      ],
+      "serviceDescription": "Initial Production Check",
+      "serviceType": "IPC"
+    },
+    "productDetails": {
+      "generalInfo": [
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SKU",
+          "value": "CL-LF-2"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.SHIPMENT_DATE",
+          "value": "1784505600000"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.QUANTITY",
+          "value": "29967 Pcs"
+        },
+        {
+          "label": "REPORTS.INTERACTIVE_REPORT.PRODUCED_QUANTITY",
+          "value": "3040 Pcs"
+        }
+      ],
+      "mainPicture": "assets/singlefile-photos-v2.1-2/9a5bbc1d-9703-46c3-a05c-f91174269ef3.jpg",
+      "poNumber": "PO 5426",
+      "productName": "Lightro Classic",
+      "prodQuantityUnit": "Pcs",
+      "skuNumber": "CL-LF-2"
+    },
+    "specialIP": null,
+    "attachments": null,
+    "showSummary": true,
+    "aiSummaryStatus": 1,
+    "userId": "D3E343E8CD904031B372FB48BA1FEB24",
+    "disableSummaryReportButton": false
+  },
+  "aiSummary": {
+    "alsoWorthNoting": [
+      {
+        "description": "The inspection took place at the branch factory of Dongguan Jiahong Toy Co., Ltd., located in Jingfenghuang Industrial Zone, Fenggan Town, Dongguan City, approximately 10 km away with a 20-minute travel time.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      },
+      {
+        "description": "No approval sample was present at the factory during inspection. The factory will send 4 sealed production samples to the client, but no waybill was provided.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      },
+      {
+        "description": "Raw materials: Ball, electric parts, and all packaging materials (instruction sheet, label, gift box, cartons) were 100% completed.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      },
+      {
+        "description": "The ball will be painted, assembled with electric parts, and then packed into the gift box and master carton.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      },
+      {
+        "description": "3040 pieces (10.14%) were finished and packed.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      },
+      {
+        "description": "Product weights met the specification.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      },
+      {
+        "description": "Function test: Turn-off time was approximately 41-44 seconds.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      },
+      {
+        "description": "Each battery voltage measured 1.48–1.49 volts instead of the specified 3 volts.",
+        "itemContent": "",
+        "photoList": {},
+        "recommendedActions": []
+      }
+    ],
+    "fileId": "singlefile-mock-singlefile-v2.1-2",
+    "likeType": "UNLIKE",
+    "measurements": null,
+    "nonConformities": [
+      {
+        "description": "The actual product dimensions were 12.0×12.0×20.2, not 13.3×12.0 as specified.",
+        "itemContent": "",
+        "photoList": {
+          "testPhotos": [
+            {
+              "name": "Product Dimensions Result",
+              "comment": "The actual product dimensions were 12.0×12.0×20.2, not 13.3×12.0 as specified.",
+              "testResult": "Fail",
+              "photos": []
+            }
+          ]
+        },
+        "recommendedActions": [
+          {
+            "actionId": "singlefile-reco-1",
+            "actionTitle": "Schedule an Initial Production Check on your next production",
+            "actionContent": "Product with dimension out of tolerances cannot be easily reworked once finished. Initial Production Check (IPC) may help to identify point of tolerances at early stage of the production and improve with the factory for the remaining balances."
+          }
+        ]
+      }
+    ],
+    "orderNumber": "Q2612169588",
+    "workmanshipAql": {
+      "description": "Key defects found: 2 Minor Poor printing, 1 Major Poor printing and 1 Minor Stain / streaks.",
+      "itemContent": "Key defects found: 2 Minor Poor printing, 1 Major Poor printing and 1 Minor Stain / streaks.",
+      "inspectionResultSummary": {
+        "foundCritical": "0",
+        "foundMajor": "1",
+        "foundMinor": "3",
+        "maxCritical": "0",
+        "maxMajor": "3",
+        "maxMinor": "5"
+      },
+      "photoList": {
+        "defectsPhotos": []
+      },
+      "recommendedActions": [
+        {
+          "actionId": "singlefile-reco-2",
+          "actionTitle": "Optimal printing techniques",
+          "actionContent": "Utilize high-quality printing methods that offer strong adhesion to the material surface, such as UV curing, heat transfer, or screen printing. Choose printing techniques based on the material type and intended product use to ensure maximum durability."
+        }
+      ],
+      "result": "Within AQL"
+    }
+  }
+}
